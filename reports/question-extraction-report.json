@@ -1,0 +1,133 @@
+{
+  "generatedAt": "deterministic-from-source-pdfs",
+  "filesProcessed": 10,
+  "pagesProcessed": 186,
+  "questionsExtracted": 1094,
+  "questionsWithImages": 802,
+  "questionsWithExtractedImages": 723,
+  "questionsWithPageVisualFallback": 79,
+  "questionsWithFourSourceOptions": 152,
+  "questionsWithGeneratedDistractors": 0,
+  "totalSourceOptions": 3249,
+  "questionsWith2SourceOptions": 289,
+  "questionsWith3SourceOptions": 601,
+  "questionsWith4SourceOptions": 152,
+  "questionsRequiringGeneratedDistractors": 890,
+  "totalGeneratedDistractors": 0,
+  "duplicateGroups": 12,
+  "reviewRequiredQuestions": 58,
+  "warnings": 58,
+  "errors": 0,
+  "files": [
+    {
+      "filename": "Խումբ-1 (հայերեն).pdf",
+      "path": "docs/Խումբ-1 (հայերեն).pdf",
+      "pages": 25,
+      "extractionStatus": "completed-with-warnings",
+      "questionsFound": 147,
+      "imageDependentQuestions": 130,
+      "answerKeysFound": 147,
+      "parsingWarnings": 3,
+      "unresolvedQuestions": 0
+    },
+    {
+      "filename": "Խումբ-10 (հայերեն).pdf",
+      "path": "docs/Խումբ-10 (հայերեն).pdf",
+      "pages": 9,
+      "extractionStatus": "completed",
+      "questionsFound": 51,
+      "imageDependentQuestions": 4,
+      "answerKeysFound": 51,
+      "parsingWarnings": 0,
+      "unresolvedQuestions": 0
+    },
+    {
+      "filename": "Խումբ-2 (հայերեն).pdf",
+      "path": "docs/Խումբ-2 (հայերեն).pdf",
+      "pages": 12,
+      "extractionStatus": "completed",
+      "questionsFound": 72,
+      "imageDependentQuestions": 18,
+      "answerKeysFound": 72,
+      "parsingWarnings": 0,
+      "unresolvedQuestions": 0
+    },
+    {
+      "filename": "Խումբ-3 (հայերեն).pdf",
+      "path": "docs/Խումբ-3 (հայերեն).pdf",
+      "pages": 13,
+      "extractionStatus": "completed-with-warnings",
+      "questionsFound": 78,
+      "imageDependentQuestions": 0,
+      "answerKeysFound": 78,
+      "parsingWarnings": 1,
+      "unresolvedQuestions": 1
+    },
+    {
+      "filename": "Խումբ-4 (հայերեն).pdf",
+      "path": "docs/Խումբ-4 (հայերեն).pdf",
+      "pages": 30,
+      "extractionStatus": "completed-with-warnings",
+      "questionsFound": 176,
+      "imageDependentQuestions": 174,
+      "answerKeysFound": 176,
+      "parsingWarnings": 26,
+      "unresolvedQuestions": 1
+    },
+    {
+      "filename": "Խումբ-5 (հայերեն).pdf",
+      "path": "docs/Խումբ-5 (հայերեն).pdf",
+      "pages": 23,
+      "extractionStatus": "completed",
+      "questionsFound": 135,
+      "imageDependentQuestions": 134,
+      "answerKeysFound": 135,
+      "parsingWarnings": 0,
+      "unresolvedQuestions": 0
+    },
+    {
+      "filename": "Խումբ-6 (հայերեն).pdf",
+      "path": "docs/Խումբ-6 (հայերեն).pdf",
+      "pages": 16,
+      "extractionStatus": "completed-with-warnings",
+      "questionsFound": 95,
+      "imageDependentQuestions": 90,
+      "answerKeysFound": 95,
+      "parsingWarnings": 2,
+      "unresolvedQuestions": 0
+    },
+    {
+      "filename": "Խումբ-7 (հայերեն).pdf",
+      "path": "docs/Խումբ-7 (հայերեն).pdf",
+      "pages": 23,
+      "extractionStatus": "completed-with-warnings",
+      "questionsFound": 134,
+      "imageDependentQuestions": 124,
+      "answerKeysFound": 134,
+      "parsingWarnings": 6,
+      "unresolvedQuestions": 0
+    },
+    {
+      "filename": "Խումբ-8 (հայերեն).pdf",
+      "path": "docs/Խումբ-8 (հայերեն).pdf",
+      "pages": 14,
+      "extractionStatus": "completed-with-warnings",
+      "questionsFound": 80,
+      "imageDependentQuestions": 32,
+      "answerKeysFound": 80,
+      "parsingWarnings": 19,
+      "unresolvedQuestions": 4
+    },
+    {
+      "filename": "Խումբ-9 (հայերեն).pdf",
+      "path": "docs/Խումբ-9 (հայերեն).pdf",
+      "pages": 21,
+      "extractionStatus": "completed-with-warnings",
+      "questionsFound": 126,
+      "imageDependentQuestions": 96,
+      "answerKeysFound": 126,
+      "parsingWarnings": 1,
+      "unresolvedQuestions": 0
+    }
+  ]
+}
