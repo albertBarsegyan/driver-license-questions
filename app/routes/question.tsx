@@ -31,7 +31,7 @@ export default function QuestionPage({ params }: Route.ComponentProps) {
     }
   }
 
-  return <article className="study-card">
+  return <article className="study-card question-page">
     <Link to={backUrl}>← {category ? "Կատեգորիա" : "Բոլոր հարցերը"}</Link>
     <p className="eyebrow">{q.categories.join(" · ")}</p>
     <h1>{q.question}</h1>
