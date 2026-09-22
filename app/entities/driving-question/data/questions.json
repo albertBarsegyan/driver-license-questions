@@ -40,7 +40,9 @@
       "page": 1,
       "questionIndex": 1
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-01-image-01.png",
@@ -221,7 +223,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-1-հայերեն-page-01.jpg",
+      "src": "",
       "page": 1
     }
   },
@@ -254,7 +256,9 @@
       "page": 2,
       "questionIndex": 7
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-02-image-01.png",
@@ -302,7 +306,9 @@
       "page": 2,
       "questionIndex": 8
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -343,7 +349,9 @@
       "page": 2,
       "questionIndex": 9
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-02-image-04.png",
@@ -385,7 +393,9 @@
       "page": 2,
       "questionIndex": 10
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-02-image-02.png",
@@ -459,7 +469,9 @@
       "page": 2,
       "questionIndex": 12
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-1-հայերեն-page-03-q013",
@@ -496,7 +508,9 @@
       "page": 3,
       "questionIndex": 13
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-1-հայերեն-page-03-q014",
@@ -527,7 +541,9 @@
       "page": 3,
       "questionIndex": 14
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-03-image-02.png",
@@ -563,7 +579,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-1-հայերեն-page-03.jpg",
+      "src": "",
       "page": 3
     }
   },
@@ -596,7 +612,9 @@
       "page": 3,
       "questionIndex": 16
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-03-image-01.png",
@@ -676,7 +694,9 @@
       "page": 3,
       "questionIndex": 18
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-03-image-04.png",
@@ -801,7 +821,9 @@
       "page": 4,
       "questionIndex": 21
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -830,7 +852,9 @@
       "page": 4,
       "questionIndex": 22
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-04-image-02.png",
@@ -898,7 +922,9 @@
       "page": 4,
       "questionIndex": 24
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-04-image-04.png",
@@ -1015,7 +1041,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-1-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -1075,7 +1101,9 @@
       "page": 5,
       "questionIndex": 29
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-05-image-03.png",
@@ -1105,7 +1133,9 @@
       "page": 5,
       "questionIndex": 30
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-05-image-04.png",
@@ -1141,7 +1171,9 @@
       "page": 6,
       "questionIndex": 31
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-06-image-01.png",
@@ -1171,7 +1203,9 @@
       "page": 6,
       "questionIndex": 32
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-06-image-02.png",
@@ -1201,7 +1235,9 @@
       "page": 6,
       "questionIndex": 33
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-06-image-04.png",
@@ -1259,7 +1295,9 @@
       "page": 6,
       "questionIndex": 35
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-06-image-03.png",
@@ -1327,7 +1365,9 @@
       "page": 7,
       "questionIndex": 37
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-1-հայերեն-page-07-q038",
@@ -1358,7 +1398,9 @@
       "page": 7,
       "questionIndex": 38
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-1-հայերեն-page-07-q039",
@@ -1383,7 +1425,9 @@
       "page": 7,
       "questionIndex": 39
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-07-image-02.png",
@@ -1419,7 +1463,9 @@
       "page": 7,
       "questionIndex": 40
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-1-հայերեն-page-07-q041",
@@ -1450,7 +1496,9 @@
       "page": 7,
       "questionIndex": 41
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-07-image-01.png",
@@ -1550,7 +1598,9 @@
       "page": 8,
       "questionIndex": 44
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-08-image-03.png",
@@ -1592,7 +1642,9 @@
       "page": 8,
       "questionIndex": 45
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-08-image-05.png",
@@ -1622,7 +1674,9 @@
       "page": 8,
       "questionIndex": 46
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-08-image-02.png",
@@ -1664,7 +1718,9 @@
       "page": 8,
       "questionIndex": 47
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-08-image-04.png",
@@ -1694,7 +1750,9 @@
       "page": 8,
       "questionIndex": 48
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-08-image-06.png",
@@ -1724,7 +1782,9 @@
       "page": 9,
       "questionIndex": 49
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-09-image-01.png",
@@ -1754,7 +1814,9 @@
       "page": 9,
       "questionIndex": 50
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-09-image-03.png",
@@ -1796,7 +1858,9 @@
       "page": 9,
       "questionIndex": 51
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-09-image-05.png",
@@ -1838,7 +1902,9 @@
       "page": 9,
       "questionIndex": 52
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-09-image-02.png",
@@ -2220,7 +2286,9 @@
       "page": 11,
       "questionIndex": 62
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-11-image-03.png",
@@ -2250,7 +2318,9 @@
       "page": 11,
       "questionIndex": 63
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-11-image-05.png",
@@ -2280,7 +2350,9 @@
       "page": 11,
       "questionIndex": 64
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-11-image-02.png",
@@ -2316,7 +2388,9 @@
       "page": 11,
       "questionIndex": 65
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-11-image-04.png",
@@ -2352,7 +2426,9 @@
       "page": 11,
       "questionIndex": 66
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-11-image-06.png",
@@ -2420,7 +2496,9 @@
       "page": 12,
       "questionIndex": 68
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-12-image-03.png",
@@ -2494,7 +2572,9 @@
       "page": 12,
       "questionIndex": 70
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-12-image-02.png",
@@ -2568,7 +2648,9 @@
       "page": 12,
       "questionIndex": 72
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-12-image-06.png",
@@ -2712,7 +2794,9 @@
       "page": 13,
       "questionIndex": 76
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-13-image-02.png",
@@ -2754,7 +2838,9 @@
       "page": 13,
       "questionIndex": 77
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-13-image-04.png",
@@ -3009,7 +3095,9 @@
       "page": 14,
       "questionIndex": 84
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-1-հայերեն-page-15-q085",
@@ -3034,7 +3122,9 @@
       "page": 15,
       "questionIndex": 85
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-15-image-01.png",
@@ -3147,7 +3237,9 @@
       "page": 15,
       "questionIndex": 88
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-15-image-02.png",
@@ -3177,7 +3269,9 @@
       "page": 15,
       "questionIndex": 89
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-15-image-04.png",
@@ -3413,7 +3507,9 @@
       "page": 16,
       "questionIndex": 96
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-16-image-06.png",
@@ -3551,7 +3647,9 @@
       "page": 17,
       "questionIndex": 100
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-17-image-02.png",
@@ -3665,7 +3763,9 @@
       "page": 18,
       "questionIndex": 103
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-18-image-01.png",
@@ -3800,7 +3900,9 @@
       "page": 18,
       "questionIndex": 107
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-18-image-03.png",
@@ -4059,7 +4161,9 @@
       "page": 19,
       "questionIndex": 114
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-19-image-06.png",
@@ -4128,7 +4232,9 @@
       "page": 20,
       "questionIndex": 116
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-20-image-03.png",
@@ -4164,7 +4270,9 @@
       "page": 20,
       "questionIndex": 117
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-20-image-05.png",
@@ -4298,7 +4406,9 @@
       "page": 21,
       "questionIndex": 121
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-21-image-01.png",
@@ -4573,7 +4683,9 @@
       "page": 22,
       "questionIndex": 129
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-22-image-05.png",
@@ -4609,7 +4721,9 @@
       "page": 22,
       "questionIndex": 130
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-22-image-02.png",
@@ -4716,7 +4830,9 @@
       "page": 23,
       "questionIndex": 133
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-1-հայերեն-page-23-q134",
@@ -4817,7 +4933,9 @@
       "page": 23,
       "questionIndex": 136
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-1-հայերեն-page-23-q137",
@@ -4853,7 +4971,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-1-հայերեն-page-23.jpg",
+      "src": "",
       "page": 23
     }
   },
@@ -4880,7 +4998,9 @@
       "page": 23,
       "questionIndex": 138
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-23-image-03.png",
@@ -4916,7 +5036,9 @@
       "page": 24,
       "questionIndex": 139
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-24-image-01.png",
@@ -5023,7 +5145,9 @@
       "page": 24,
       "questionIndex": 142
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-24-image-02.png",
@@ -5123,7 +5247,9 @@
       "page": 25,
       "questionIndex": 145
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-25-image-01.png",
@@ -5153,7 +5279,9 @@
       "page": 25,
       "questionIndex": 146
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-25-image-03.png",
@@ -5221,7 +5349,9 @@
       "page": 1,
       "questionIndex": 1
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-01-q002",
@@ -5258,7 +5388,9 @@
       "page": 1,
       "questionIndex": 2
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-01-q003",
@@ -5295,7 +5427,9 @@
       "page": 1,
       "questionIndex": 3
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-01-q004",
@@ -5332,7 +5466,9 @@
       "page": 1,
       "questionIndex": 4
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-01-q005",
@@ -5369,10 +5505,12 @@
       "page": 1,
       "questionIndex": 5
     },
-    "categories": [],
+    "categories": [
+      "Առաջին օգնություն"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-10-հայերեն-page-01.jpg",
+      "src": "",
       "page": 1
     }
   },
@@ -5411,7 +5549,9 @@
       "page": 1,
       "questionIndex": 6
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-02-q007",
@@ -5443,7 +5583,7 @@
       "questionIndex": 7
     },
     "categories": [
-      "Հետիոտներ"
+      "Առաջին օգնություն"
     ]
   },
   {
@@ -5481,10 +5621,12 @@
       "page": 2,
       "questionIndex": 8
     },
-    "categories": [],
+    "categories": [
+      "Առաջին օգնություն"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-10-հայերեն-page-02.jpg",
+      "src": "",
       "page": 2
     }
   },
@@ -5517,7 +5659,9 @@
       "page": 2,
       "questionIndex": 9
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-02-q010",
@@ -5554,7 +5698,9 @@
       "page": 2,
       "questionIndex": 10
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-02-q011",
@@ -5591,7 +5737,9 @@
       "page": 2,
       "questionIndex": 11
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-02-q012",
@@ -5628,7 +5776,9 @@
       "page": 2,
       "questionIndex": 12
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-03-q013",
@@ -5659,7 +5809,9 @@
       "page": 3,
       "questionIndex": 13
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-03-q014",
@@ -5690,7 +5842,9 @@
       "page": 3,
       "questionIndex": 14
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-03-q015",
@@ -5727,7 +5881,9 @@
       "page": 3,
       "questionIndex": 15
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-03-q016",
@@ -5764,7 +5920,9 @@
       "page": 3,
       "questionIndex": 16
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-03-q017",
@@ -5795,7 +5953,9 @@
       "page": 3,
       "questionIndex": 17
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-03-q018",
@@ -5832,7 +5992,9 @@
       "page": 3,
       "questionIndex": 18
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-04-q019",
@@ -5863,7 +6025,9 @@
       "page": 4,
       "questionIndex": 19
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-04-q020",
@@ -5894,7 +6058,9 @@
       "page": 4,
       "questionIndex": 20
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-04-q021",
@@ -5931,7 +6097,9 @@
       "page": 4,
       "questionIndex": 21
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-04-q022",
@@ -5962,7 +6130,9 @@
       "page": 4,
       "questionIndex": 22
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-04-q023",
@@ -5999,7 +6169,9 @@
       "page": 4,
       "questionIndex": 23
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-04-q024",
@@ -6036,7 +6208,9 @@
       "page": 4,
       "questionIndex": 24
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-05-q025",
@@ -6073,7 +6247,9 @@
       "page": 5,
       "questionIndex": 25
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-05-q026",
@@ -6111,11 +6287,11 @@
       "questionIndex": 26
     },
     "categories": [
-      "Ճանապարհային նշաններ"
+      "Առաջին օգնություն"
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-10-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -6142,7 +6318,9 @@
       "page": 5,
       "questionIndex": 27
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-05-q028",
@@ -6173,7 +6351,9 @@
       "page": 5,
       "questionIndex": 28
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-05-q029",
@@ -6210,7 +6390,9 @@
       "page": 5,
       "questionIndex": 29
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-05-q030",
@@ -6247,7 +6429,9 @@
       "page": 5,
       "questionIndex": 30
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-06-q031",
@@ -6278,7 +6462,9 @@
       "page": 6,
       "questionIndex": 31
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-06-q032",
@@ -6304,7 +6490,7 @@
       "questionIndex": 32
     },
     "categories": [
-      "Հետիոտներ"
+      "Առաջին օգնություն"
     ]
   },
   {
@@ -6330,7 +6516,9 @@
       "page": 6,
       "questionIndex": 33
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-06-q034",
@@ -6367,7 +6555,9 @@
       "page": 6,
       "questionIndex": 34
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-06-q035",
@@ -6392,7 +6582,9 @@
       "page": 6,
       "questionIndex": 35
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-06-q036",
@@ -6417,7 +6609,9 @@
       "page": 6,
       "questionIndex": 36
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-07-q037",
@@ -6448,7 +6642,9 @@
       "page": 7,
       "questionIndex": 37
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-07-q038",
@@ -6479,7 +6675,9 @@
       "page": 7,
       "questionIndex": 38
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-07-q039",
@@ -6510,7 +6708,9 @@
       "page": 7,
       "questionIndex": 39
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-07-q040",
@@ -6541,7 +6741,9 @@
       "page": 7,
       "questionIndex": 40
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-07-q041",
@@ -6572,7 +6774,9 @@
       "page": 7,
       "questionIndex": 41
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-07-q042",
@@ -6603,7 +6807,9 @@
       "page": 7,
       "questionIndex": 42
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-08-q043",
@@ -6634,7 +6840,9 @@
       "page": 8,
       "questionIndex": 43
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-08-q044",
@@ -6666,11 +6874,11 @@
       "questionIndex": 44
     },
     "categories": [
-      "Ճանապարհային նշաններ"
+      "Առաջին օգնություն"
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-10-հայերեն-page-08.jpg",
+      "src": "",
       "page": 8
     }
   },
@@ -6703,7 +6911,9 @@
       "page": 8,
       "questionIndex": 45
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-08-q046",
@@ -6734,7 +6944,9 @@
       "page": 8,
       "questionIndex": 46
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-08-q047",
@@ -6765,7 +6977,9 @@
       "page": 8,
       "questionIndex": 47
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-08-q048",
@@ -6796,7 +7010,9 @@
       "page": 8,
       "questionIndex": 48
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-09-q049",
@@ -6827,7 +7043,9 @@
       "page": 9,
       "questionIndex": 49
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-09-q050",
@@ -6858,7 +7076,9 @@
       "page": 9,
       "questionIndex": 50
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-10-հայերեն-page-09-q051",
@@ -6889,7 +7109,9 @@
       "page": 9,
       "questionIndex": 51
     },
-    "categories": []
+    "categories": [
+      "Առաջին օգնություն"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-01-q001",
@@ -6914,7 +7136,9 @@
       "page": 1,
       "questionIndex": 1
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-01-q002",
@@ -6945,7 +7169,9 @@
       "page": 1,
       "questionIndex": 2
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-01-q003",
@@ -6982,7 +7208,9 @@
       "page": 1,
       "questionIndex": 3
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-01-q004",
@@ -7013,7 +7241,9 @@
       "page": 1,
       "questionIndex": 4
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-01-q005",
@@ -7038,7 +7268,9 @@
       "page": 1,
       "questionIndex": 5
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-01-q006",
@@ -7075,7 +7307,9 @@
       "page": 1,
       "questionIndex": 6
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-02-q007",
@@ -7194,7 +7428,9 @@
       "page": 2,
       "questionIndex": 10
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-02-q011",
@@ -7225,7 +7461,9 @@
       "page": 2,
       "questionIndex": 11
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-02-q012",
@@ -7256,7 +7494,9 @@
       "page": 2,
       "questionIndex": 12
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-03-q013",
@@ -7287,7 +7527,9 @@
       "page": 3,
       "questionIndex": 13
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-03-q014",
@@ -7318,7 +7560,9 @@
       "page": 3,
       "questionIndex": 14
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-03-q015",
@@ -7343,7 +7587,9 @@
       "page": 3,
       "questionIndex": 15
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-03-q016",
@@ -7467,7 +7713,9 @@
       "page": 4,
       "questionIndex": 19
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-04-q020",
@@ -7525,7 +7773,9 @@
       "page": 4,
       "questionIndex": 21
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-04-q022",
@@ -7550,7 +7800,9 @@
       "page": 4,
       "questionIndex": 22
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-04-q023",
@@ -7587,7 +7839,9 @@
       "page": 4,
       "questionIndex": 23
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-04-q024",
@@ -7624,7 +7878,9 @@
       "page": 4,
       "questionIndex": 24
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-05-q025",
@@ -7655,10 +7911,12 @@
       "page": 5,
       "questionIndex": 25
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-2-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -7697,10 +7955,12 @@
       "page": 5,
       "questionIndex": 26
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-2-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -7727,7 +7987,9 @@
       "page": 5,
       "questionIndex": 27
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-05-q028",
@@ -7758,10 +8020,12 @@
       "page": 5,
       "questionIndex": 28
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-2-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -7794,10 +8058,12 @@
       "page": 5,
       "questionIndex": 29
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-2-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -7824,7 +8090,9 @@
       "page": 5,
       "questionIndex": 30
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-06-q031",
@@ -7855,7 +8123,9 @@
       "page": 6,
       "questionIndex": 31
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-06-q032",
@@ -7880,10 +8150,12 @@
       "page": 6,
       "questionIndex": 32
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-2-հայերեն-page-06.jpg",
+      "src": "",
       "page": 6
     }
   },
@@ -7910,7 +8182,9 @@
       "page": 6,
       "questionIndex": 33
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-06-q034",
@@ -7935,7 +8209,9 @@
       "page": 6,
       "questionIndex": 34
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-06-q035",
@@ -7966,7 +8242,9 @@
       "page": 6,
       "questionIndex": 35
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-06-q036",
@@ -7991,10 +8269,12 @@
       "page": 6,
       "questionIndex": 36
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-2-հայերեն-page-06.jpg",
+      "src": "",
       "page": 6
     }
   },
@@ -8060,7 +8340,9 @@
       "page": 7,
       "questionIndex": 38
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-07-q039",
@@ -8097,7 +8379,9 @@
       "page": 7,
       "questionIndex": 39
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-07-q040",
@@ -8122,7 +8406,9 @@
       "page": 7,
       "questionIndex": 40
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-07-q041",
@@ -8153,7 +8439,9 @@
       "page": 7,
       "questionIndex": 41
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-07-q042",
@@ -8190,7 +8478,9 @@
       "page": 7,
       "questionIndex": 42
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-08-q043",
@@ -8221,10 +8511,12 @@
       "page": 8,
       "questionIndex": 43
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-2-հայերեն-page-08.jpg",
+      "src": "",
       "page": 8
     }
   },
@@ -8257,7 +8549,9 @@
       "page": 8,
       "questionIndex": 44
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-08-q045",
@@ -8288,7 +8582,9 @@
       "page": 8,
       "questionIndex": 45
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-08-q046",
@@ -8352,7 +8648,9 @@
       "page": 8,
       "questionIndex": 47
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-08-q048",
@@ -8416,7 +8714,9 @@
       "page": 9,
       "questionIndex": 49
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-09-q050",
@@ -8441,7 +8741,9 @@
       "page": 9,
       "questionIndex": 50
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-2-հայերեն-page-09-image-01.png",
@@ -8477,7 +8779,9 @@
       "page": 9,
       "questionIndex": 51
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-2-հայերեն-page-09-image-03.png",
@@ -8519,7 +8823,9 @@
       "page": 9,
       "questionIndex": 52
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-09-q053",
@@ -8550,7 +8856,9 @@
       "page": 9,
       "questionIndex": 53
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-2-հայերեն-page-09-image-02.png",
@@ -8592,7 +8900,9 @@
       "page": 9,
       "questionIndex": 54
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-10-q055",
@@ -8623,7 +8933,9 @@
       "page": 10,
       "questionIndex": 55
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-10-q056",
@@ -8686,7 +8998,9 @@
       "page": 10,
       "questionIndex": 57
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-2-հայերեն-page-10-image-04.png",
@@ -8722,7 +9036,9 @@
       "page": 10,
       "questionIndex": 58
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-2-հայերեն-page-10-image-01.png",
@@ -8790,7 +9106,9 @@
       "page": 10,
       "questionIndex": 60
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-2-հայերեն-page-10-image-05.png",
@@ -8831,7 +9149,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-2-հայերեն-page-11.jpg",
+      "src": "",
       "page": 11
     }
   },
@@ -8896,7 +9214,9 @@
       "page": 11,
       "questionIndex": 63
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-11-q064",
@@ -8965,7 +9285,9 @@
       "page": 11,
       "questionIndex": 65
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-11-q066",
@@ -8990,7 +9312,9 @@
       "page": 11,
       "questionIndex": 66
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-12-q067",
@@ -9015,7 +9339,9 @@
       "page": 12,
       "questionIndex": 67
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-12-q068",
@@ -9040,7 +9366,9 @@
       "page": 12,
       "questionIndex": 68
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-12-q069",
@@ -9065,7 +9393,9 @@
       "page": 12,
       "questionIndex": 69
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-12-q070",
@@ -9090,7 +9420,9 @@
       "page": 12,
       "questionIndex": 70
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-12-q071",
@@ -9115,7 +9447,9 @@
       "page": 12,
       "questionIndex": 71
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-2-հայերեն-page-12-q072",
@@ -9146,7 +9480,9 @@
       "page": 12,
       "questionIndex": 72
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-01-q001",
@@ -9177,7 +9513,9 @@
       "page": 1,
       "questionIndex": 1
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-01-q002",
@@ -9208,7 +9546,9 @@
       "page": 1,
       "questionIndex": 2
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-01-q003",
@@ -9239,7 +9579,9 @@
       "page": 1,
       "questionIndex": 3
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-01-q004",
@@ -9270,7 +9612,9 @@
       "page": 1,
       "questionIndex": 4
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-01-q005",
@@ -9301,7 +9645,9 @@
       "page": 1,
       "questionIndex": 5
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-01-q006",
@@ -9338,7 +9684,9 @@
       "page": 1,
       "questionIndex": 6
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-02-q007",
@@ -9369,7 +9717,9 @@
       "page": 2,
       "questionIndex": 7
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-02-q008",
@@ -9400,7 +9750,9 @@
       "page": 2,
       "questionIndex": 8
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-02-q009",
@@ -9431,7 +9783,9 @@
       "page": 2,
       "questionIndex": 9
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-02-q010",
@@ -9462,7 +9816,9 @@
       "page": 2,
       "questionIndex": 10
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-02-q011",
@@ -9493,7 +9849,9 @@
       "page": 2,
       "questionIndex": 11
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-02-q012",
@@ -9524,7 +9882,9 @@
       "page": 2,
       "questionIndex": 12
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-03-q013",
@@ -9555,7 +9915,9 @@
       "page": 3,
       "questionIndex": 13
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-03-q014",
@@ -9586,7 +9948,9 @@
       "page": 3,
       "questionIndex": 14
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-03-q015",
@@ -9617,7 +9981,9 @@
       "page": 3,
       "questionIndex": 15
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-03-q016",
@@ -9654,7 +10020,9 @@
       "page": 3,
       "questionIndex": 16
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-03-q017",
@@ -9685,7 +10053,9 @@
       "page": 3,
       "questionIndex": 17
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-03-q018",
@@ -9716,7 +10086,9 @@
       "page": 3,
       "questionIndex": 18
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-04-q019",
@@ -9747,7 +10119,9 @@
       "page": 4,
       "questionIndex": 19
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-04-q020",
@@ -9778,7 +10152,9 @@
       "page": 4,
       "questionIndex": 20
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-04-q021",
@@ -9809,7 +10185,9 @@
       "page": 4,
       "questionIndex": 21
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-04-q022",
@@ -9840,7 +10218,9 @@
       "page": 4,
       "questionIndex": 22
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-04-q023",
@@ -9871,7 +10251,9 @@
       "page": 4,
       "questionIndex": 23
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-04-q024",
@@ -9902,7 +10284,9 @@
       "page": 4,
       "questionIndex": 24
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-05-q025",
@@ -9933,7 +10317,9 @@
       "page": 5,
       "questionIndex": 25
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-05-q026",
@@ -9970,7 +10356,9 @@
       "page": 5,
       "questionIndex": 26
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-05-q027",
@@ -10001,7 +10389,9 @@
       "page": 5,
       "questionIndex": 27
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-05-q028",
@@ -10032,7 +10422,9 @@
       "page": 5,
       "questionIndex": 28
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-05-q029",
@@ -10063,7 +10455,9 @@
       "page": 5,
       "questionIndex": 29
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-05-q030",
@@ -10094,7 +10488,9 @@
       "page": 5,
       "questionIndex": 30
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-06-q031",
@@ -10125,7 +10521,9 @@
       "page": 6,
       "questionIndex": 31
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-06-q032",
@@ -10156,7 +10554,9 @@
       "page": 6,
       "questionIndex": 32
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-06-q033",
@@ -10187,7 +10587,9 @@
       "page": 6,
       "questionIndex": 33
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-06-q034",
@@ -10218,7 +10620,9 @@
       "page": 6,
       "questionIndex": 34
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-06-q035",
@@ -10249,7 +10653,9 @@
       "page": 6,
       "questionIndex": 35
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-06-q036",
@@ -10280,7 +10686,9 @@
       "page": 6,
       "questionIndex": 36
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-07-q037",
@@ -10311,7 +10719,9 @@
       "page": 7,
       "questionIndex": 37
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-07-q038",
@@ -10342,7 +10752,9 @@
       "page": 7,
       "questionIndex": 38
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-07-q039",
@@ -10373,7 +10785,9 @@
       "page": 7,
       "questionIndex": 39
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-07-q040",
@@ -10404,7 +10818,9 @@
       "page": 7,
       "questionIndex": 40
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-07-q041",
@@ -10435,7 +10851,9 @@
       "page": 7,
       "questionIndex": 41
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-07-q042",
@@ -10466,7 +10884,9 @@
       "page": 7,
       "questionIndex": 42
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-08-q043",
@@ -10497,7 +10917,9 @@
       "page": 8,
       "questionIndex": 43
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-08-q044",
@@ -10528,7 +10950,9 @@
       "page": 8,
       "questionIndex": 44
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-08-q045",
@@ -10559,7 +10983,9 @@
       "page": 8,
       "questionIndex": 45
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-08-q046",
@@ -10590,7 +11016,9 @@
       "page": 8,
       "questionIndex": 46
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-08-q047",
@@ -10621,7 +11049,9 @@
       "page": 8,
       "questionIndex": 47
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-08-q048",
@@ -10652,7 +11082,9 @@
       "page": 8,
       "questionIndex": 48
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-09-q049",
@@ -10683,7 +11115,9 @@
       "page": 9,
       "questionIndex": 49
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-09-q050",
@@ -10714,7 +11148,9 @@
       "page": 9,
       "questionIndex": 50
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-09-q051",
@@ -10745,7 +11181,9 @@
       "page": 9,
       "questionIndex": 51
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-09-q052",
@@ -10776,7 +11214,9 @@
       "page": 9,
       "questionIndex": 52
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-09-q053",
@@ -10807,7 +11247,9 @@
       "page": 9,
       "questionIndex": 53
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-09-q054",
@@ -10838,7 +11280,9 @@
       "page": 9,
       "questionIndex": 54
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-10-q055",
@@ -10869,7 +11313,9 @@
       "page": 10,
       "questionIndex": 55
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-10-q056",
@@ -10900,7 +11346,9 @@
       "page": 10,
       "questionIndex": 56
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-10-q057",
@@ -10931,7 +11379,9 @@
       "page": 10,
       "questionIndex": 57
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-10-q058",
@@ -10962,7 +11412,9 @@
       "page": 10,
       "questionIndex": 58
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-10-q059",
@@ -10993,7 +11445,9 @@
       "page": 10,
       "questionIndex": 59
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-10-q060",
@@ -11024,7 +11478,9 @@
       "page": 10,
       "questionIndex": 60
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-11-q061",
@@ -11055,7 +11511,9 @@
       "page": 11,
       "questionIndex": 61
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-11-q062",
@@ -11086,7 +11544,9 @@
       "page": 11,
       "questionIndex": 62
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-11-q063",
@@ -11117,7 +11577,9 @@
       "page": 11,
       "questionIndex": 63
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-11-q064",
@@ -11148,7 +11610,9 @@
       "page": 11,
       "questionIndex": 64
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-11-q065",
@@ -11179,7 +11643,9 @@
       "page": 11,
       "questionIndex": 65
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-11-q066",
@@ -11210,7 +11676,9 @@
       "page": 11,
       "questionIndex": 66
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-12-q067",
@@ -11241,7 +11709,9 @@
       "page": 12,
       "questionIndex": 67
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-12-q068",
@@ -11272,7 +11742,9 @@
       "page": 12,
       "questionIndex": 68
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-12-q069",
@@ -11303,7 +11775,9 @@
       "page": 12,
       "questionIndex": 69
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-12-q070",
@@ -11334,28 +11808,24 @@
       "page": 12,
       "questionIndex": 70
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-12-q071",
-    "question": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե՝",
+    "question": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե անվահեցի կամ անվասկավառակի վրա առկա են ճաքեր",
     "originalOptions": [
       {
         "id": "խումբ-3-հայերեն-page-12-q071-option-1",
         "sourceIndex": 1,
-        "text": "անվահեցի կամ անվասկավառակի վրա առկա են ճաքեր",
+        "text": "անվահեցի ամրացման անցքերի ձևի և չափերի տեսանելի",
         "generated": false
       },
       {
         "id": "խումբ-3-հայերեն-page-12-q071-option-2",
         "sourceIndex": 2,
-        "text": "անվահեցի ամրացման անցքերի ձևի և չափերի տեսանելի խախտումներ են առկա",
-        "generated": false
-      },
-      {
-        "id": "խումբ-3-հայերեն-page-12-q071-option-3",
-        "sourceIndex": 3,
-        "text": "Երկու դեպքում էլ։",
+        "text": "խախտումներ են առկա երկու դեպքում էլ 3.",
         "generated": false
       }
     ],
@@ -11365,7 +11835,9 @@
       "page": 12,
       "questionIndex": 71
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "answer-index-not-present-in-options"
@@ -11400,7 +11872,9 @@
       "page": 12,
       "questionIndex": 72
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-13-q073",
@@ -11431,7 +11905,9 @@
       "page": 13,
       "questionIndex": 73
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-13-q074",
@@ -11462,7 +11938,9 @@
       "page": 13,
       "questionIndex": 74
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-13-q075",
@@ -11493,7 +11971,9 @@
       "page": 13,
       "questionIndex": 75
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-13-q076",
@@ -11524,7 +12004,9 @@
       "page": 13,
       "questionIndex": 76
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-13-q077",
@@ -11555,7 +12037,9 @@
       "page": 13,
       "questionIndex": 77
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-3-հայերեն-page-13-q078",
@@ -11586,7 +12070,9 @@
       "page": 13,
       "questionIndex": 78
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-4-հայերեն-page-01-q001",
@@ -11759,36 +12245,36 @@
   },
   {
     "id": "խումբ-4-հայերեն-page-01-q005",
-    "question": "Ճանապարհի վտանգավոր հատվածի տեղամասից ի՞նչ հեռավորության վրա են տեղադրվում այս նշանները բնակավայրերում։",
+    "question": "Ճանապարհի վտանգավոր հատվածի տեղամասից ի՞նչ հեռավորության վրա են տեղադրվում այս նշանները բնակավայրերում։ 25 մ։",
     "originalOptions": [
       {
         "id": "խումբ-4-հայերեն-page-01-q005-option-1",
         "sourceIndex": 1,
-        "text": "15 - 25 մ։",
+        "text": "15 - 50 մ։",
         "generated": false
       },
       {
         "id": "խումբ-4-հայերեն-page-01-q005-option-2",
         "sourceIndex": 2,
-        "text": "25 - 50 մ։",
+        "text": "25 - 100 մ։",
         "generated": false
       },
       {
         "id": "խումբ-4-հայերեն-page-01-q005-option-3",
         "sourceIndex": 3,
-        "text": "50 - 100 մ։",
+        "text": "50 - 150 մ։",
         "generated": false
       },
       {
         "id": "խումբ-4-հայերեն-page-01-q005-option-4",
         "sourceIndex": 4,
-        "text": "100 - 150 մ։",
+        "text": "100 - 300 մ։",
         "generated": false
       },
       {
         "id": "խումբ-4-հայերեն-page-01-q005-option-5",
         "sourceIndex": 5,
-        "text": "150 - 300 մ։",
+        "text": "150 -",
         "generated": false
       }
     ],
@@ -11852,7 +12338,9 @@
       "page": 1,
       "questionIndex": 6
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-01-image-06.png",
@@ -12040,7 +12528,9 @@
       "page": 2,
       "questionIndex": 10
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-02-image-02.png",
@@ -12092,7 +12582,9 @@
       "page": 2,
       "questionIndex": 11
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-02-image-04.png",
@@ -12284,7 +12776,9 @@
       "page": 3,
       "questionIndex": 15
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-03-image-05.png",
@@ -12599,7 +13093,9 @@
       "page": 4,
       "questionIndex": 22
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-04-image-02.png",
@@ -12863,7 +13359,9 @@
       "page": 5,
       "questionIndex": 28
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-05-image-02.png",
@@ -12915,7 +13413,9 @@
       "page": 5,
       "questionIndex": 29
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-05-image-04.png",
@@ -13011,7 +13511,9 @@
       "page": 6,
       "questionIndex": 31
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-06-image-01.png",
@@ -13616,7 +14118,9 @@
       "page": 8,
       "questionIndex": 44
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-08-image-03.png",
@@ -13744,7 +14248,9 @@
       "page": 8,
       "questionIndex": 47
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-08-image-04.png",
@@ -13867,7 +14373,9 @@
       "page": 9,
       "questionIndex": 50
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-09-image-03.png",
@@ -13947,7 +14455,9 @@
       "page": 9,
       "questionIndex": 52
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-09-image-02.png",
@@ -14057,7 +14567,9 @@
       "page": 10,
       "questionIndex": 55
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-10-image-01.png",
@@ -14093,7 +14605,9 @@
       "page": 10,
       "questionIndex": 56
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-10-image-03.png",
@@ -14417,7 +14931,9 @@
       "page": 11,
       "questionIndex": 65
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-11-image-04.png",
@@ -14561,7 +15077,9 @@
       "page": 12,
       "questionIndex": 69
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-12-image-05.png",
@@ -14673,7 +15191,9 @@
       "page": 12,
       "questionIndex": 72
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-12-image-06.png",
@@ -14742,7 +15262,9 @@
       "page": 13,
       "questionIndex": 74
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-13-image-03.png",
@@ -14843,7 +15365,9 @@
       "page": 13,
       "questionIndex": 77
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-13-image-04.png",
@@ -14879,7 +15403,9 @@
       "page": 13,
       "questionIndex": 78
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-13-image-06.png",
@@ -14909,7 +15435,9 @@
       "page": 14,
       "questionIndex": 79
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-14-image-01.png",
@@ -15144,7 +15672,9 @@
       "page": 15,
       "questionIndex": 85
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-15-image-01.png",
@@ -15212,7 +15742,9 @@
       "page": 15,
       "questionIndex": 87
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-15-image-05.png",
@@ -15330,7 +15862,9 @@
       "page": 15,
       "questionIndex": 90
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-15-image-06.png",
@@ -15360,7 +15894,9 @@
       "page": 16,
       "questionIndex": 91
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-16-image-01.png",
@@ -15440,7 +15976,9 @@
       "page": 16,
       "questionIndex": 93
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "empty-question-text"
@@ -15552,7 +16090,9 @@
       "page": 16,
       "questionIndex": 96
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-16-image-06.png",
@@ -15588,7 +16128,9 @@
       "page": 17,
       "questionIndex": 97
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-17-image-01.png",
@@ -15624,7 +16166,9 @@
       "page": 17,
       "questionIndex": 98
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-17-image-03.png",
@@ -15654,7 +16198,9 @@
       "page": 17,
       "questionIndex": 99
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-17-image-05.png",
@@ -15728,7 +16274,9 @@
       "page": 17,
       "questionIndex": 101
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-17-image-04.png",
@@ -15873,7 +16421,9 @@
       "page": 18,
       "questionIndex": 105
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-18-image-05.png",
@@ -15947,7 +16497,9 @@
       "page": 18,
       "questionIndex": 107
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-18-image-04.png",
@@ -15983,7 +16535,9 @@
       "page": 18,
       "questionIndex": 108
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-18-image-06.png",
@@ -16019,7 +16573,9 @@
       "page": 19,
       "questionIndex": 109
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-19-image-01.png",
@@ -16234,7 +16790,9 @@
       "page": 20,
       "questionIndex": 115
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-20-image-01.png",
@@ -16308,7 +16866,9 @@
       "page": 20,
       "questionIndex": 117
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-20-image-05.png",
@@ -16338,7 +16898,9 @@
       "page": 20,
       "questionIndex": 118
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-20-image-02.png",
@@ -16539,7 +17101,9 @@
       "page": 21,
       "questionIndex": 123
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-21-image-05.png",
@@ -16689,7 +17253,9 @@
       "page": 22,
       "questionIndex": 127
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-22-image-01.png",
@@ -16795,7 +17361,9 @@
       "page": 22,
       "questionIndex": 130
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-22-image-02.png",
@@ -16951,7 +17519,9 @@
       "page": 23,
       "questionIndex": 134
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-23-image-03.png",
@@ -17063,7 +17633,9 @@
       "page": 23,
       "questionIndex": 137
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-4-հայերեն-page-23-q138",
@@ -17132,7 +17704,9 @@
       "page": 24,
       "questionIndex": 139
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-24-image-01.png",
@@ -17327,7 +17901,9 @@
       "page": 24,
       "questionIndex": 144
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-24-image-06.png",
@@ -17363,7 +17939,9 @@
       "page": 25,
       "questionIndex": 145
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-25-image-01.png",
@@ -17679,7 +18257,9 @@
       "page": 26,
       "questionIndex": 153
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-26-image-05.png",
@@ -17715,7 +18295,9 @@
       "page": 26,
       "questionIndex": 154
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-26-image-02.png",
@@ -17936,7 +18518,9 @@
       "page": 27,
       "questionIndex": 160
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-27-image-02.png",
@@ -18048,7 +18632,9 @@
       "page": 28,
       "questionIndex": 163
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-28-image-01.png",
@@ -18122,7 +18708,9 @@
       "page": 28,
       "questionIndex": 165
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-28-image-05.png",
@@ -18196,7 +18784,9 @@
       "page": 28,
       "questionIndex": 167
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-28-image-04.png",
@@ -18379,7 +18969,9 @@
       "page": 29,
       "questionIndex": 172
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-29-image-02.png",
@@ -18611,7 +19203,9 @@
       "page": 1,
       "questionIndex": 2
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-01-image-03.png",
@@ -18691,7 +19285,9 @@
       "page": 1,
       "questionIndex": 4
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-01-image-02.png",
@@ -18759,7 +19355,9 @@
       "page": 1,
       "questionIndex": 6
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-01-image-06.png",
@@ -18795,7 +19393,9 @@
       "page": 2,
       "questionIndex": 7
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-02-image-01.png",
@@ -18831,7 +19431,9 @@
       "page": 2,
       "questionIndex": 8
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-02-image-03.png",
@@ -18874,7 +19476,9 @@
       "page": 2,
       "questionIndex": 9
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-02-image-05.png",
@@ -18910,7 +19514,9 @@
       "page": 2,
       "questionIndex": 10
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-02-image-02.png",
@@ -18946,7 +19552,9 @@
       "page": 2,
       "questionIndex": 11
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-02-image-04.png",
@@ -18976,7 +19584,9 @@
       "page": 2,
       "questionIndex": 12
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-02-image-06.png",
@@ -19018,7 +19628,9 @@
       "page": 3,
       "questionIndex": 13
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-03-image-01.png",
@@ -19054,7 +19666,9 @@
       "page": 3,
       "questionIndex": 14
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-03-image-03.png",
@@ -19167,7 +19781,9 @@
       "page": 3,
       "questionIndex": 17
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-03-image-04.png",
@@ -19203,7 +19819,9 @@
       "page": 3,
       "questionIndex": 18
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-03-image-06.png",
@@ -19233,7 +19851,9 @@
       "page": 4,
       "questionIndex": 19
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-04-image-01.png",
@@ -19269,7 +19889,9 @@
       "page": 4,
       "questionIndex": 20
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-04-image-03.png",
@@ -19300,7 +19922,9 @@
       "page": 4,
       "questionIndex": 21
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-04-image-05.png",
@@ -19336,7 +19960,9 @@
       "page": 4,
       "questionIndex": 22
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-04-image-02.png",
@@ -19378,7 +20004,9 @@
       "page": 4,
       "questionIndex": 23
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-04-image-04.png",
@@ -19452,7 +20080,9 @@
       "page": 5,
       "questionIndex": 25
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-05-image-01.png",
@@ -19558,7 +20188,9 @@
       "page": 5,
       "questionIndex": 28
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-05-image-02.png",
@@ -19594,7 +20226,9 @@
       "page": 5,
       "questionIndex": 29
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-05-image-04.png",
@@ -19630,7 +20264,9 @@
       "page": 5,
       "questionIndex": 30
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-05-image-06.png",
@@ -19667,7 +20303,9 @@
       "page": 6,
       "questionIndex": 31
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-06-image-01.png",
@@ -19843,7 +20481,9 @@
       "page": 6,
       "questionIndex": 36
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-06-image-06.png",
@@ -19873,7 +20513,9 @@
       "page": 7,
       "questionIndex": 37
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-07-image-01.png",
@@ -19935,7 +20577,9 @@
       "page": 7,
       "questionIndex": 39
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-07-image-05.png",
@@ -20047,7 +20691,9 @@
       "page": 7,
       "questionIndex": 42
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-07-image-06.png",
@@ -20083,7 +20729,9 @@
       "page": 8,
       "questionIndex": 43
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-08-image-01.png",
@@ -20119,7 +20767,9 @@
       "page": 8,
       "questionIndex": 44
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-08-image-03.png",
@@ -20275,7 +20925,9 @@
       "page": 8,
       "questionIndex": 48
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-08-image-06.png",
@@ -20343,7 +20995,9 @@
       "page": 9,
       "questionIndex": 50
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-09-image-03.png",
@@ -20405,7 +21059,9 @@
       "page": 9,
       "questionIndex": 52
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-09-image-02.png",
@@ -20759,7 +21415,9 @@
       "page": 11,
       "questionIndex": 62
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-11-image-03.png",
@@ -20936,7 +21594,9 @@
       "page": 12,
       "questionIndex": 67
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-12-image-01.png",
@@ -21005,7 +21665,9 @@
       "page": 12,
       "questionIndex": 69
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-12-image-05.png",
@@ -21117,7 +21779,9 @@
       "page": 12,
       "questionIndex": 72
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-12-image-06.png",
@@ -21191,7 +21855,9 @@
       "page": 13,
       "questionIndex": 74
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-13-image-03.png",
@@ -21233,7 +21899,9 @@
       "page": 13,
       "questionIndex": 75
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-13-image-05.png",
@@ -21269,7 +21937,9 @@
       "page": 13,
       "questionIndex": 76
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-13-image-02.png",
@@ -21337,7 +22007,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-5-հայերեն-page-13.jpg",
+      "src": "",
       "page": 13
     }
   },
@@ -21440,7 +22110,9 @@
       "page": 14,
       "questionIndex": 81
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-14-image-05.png",
@@ -21584,7 +22256,9 @@
       "page": 15,
       "questionIndex": 85
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-15-image-01.png",
@@ -21653,7 +22327,9 @@
       "page": 15,
       "questionIndex": 87
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-15-image-05.png",
@@ -21873,7 +22549,9 @@
       "page": 16,
       "questionIndex": 93
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-16-image-05.png",
@@ -21967,7 +22645,9 @@
       "page": 16,
       "questionIndex": 96
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-16-image-06.png",
@@ -22080,7 +22760,9 @@
       "page": 17,
       "questionIndex": 99
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-17-image-05.png",
@@ -22122,7 +22804,9 @@
       "page": 17,
       "questionIndex": 100
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-17-image-02.png",
@@ -22266,7 +22950,9 @@
       "page": 18,
       "questionIndex": 104
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-18-image-02.png",
@@ -22334,7 +23020,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-5-հայերեն-page-18.jpg",
+      "src": "",
       "page": 18
     }
   },
@@ -22367,7 +23053,9 @@
       "page": 18,
       "questionIndex": 107
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-18-image-03.png",
@@ -22436,7 +23124,9 @@
       "page": 19,
       "questionIndex": 109
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-19-image-01.png",
@@ -22543,7 +23233,9 @@
       "page": 19,
       "questionIndex": 112
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-19-image-02.png",
@@ -22617,7 +23309,9 @@
       "page": 19,
       "questionIndex": 114
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-19-image-06.png",
@@ -22647,7 +23341,9 @@
       "page": 20,
       "questionIndex": 115
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-20-image-01.png",
@@ -22689,7 +23385,9 @@
       "page": 20,
       "questionIndex": 116
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-20-image-03.png",
@@ -22725,7 +23423,9 @@
       "page": 20,
       "questionIndex": 117
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-20-image-05.png",
@@ -22767,7 +23467,9 @@
       "page": 20,
       "questionIndex": 118
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-20-image-02.png",
@@ -22835,7 +23537,9 @@
       "page": 20,
       "questionIndex": 120
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-20-image-06.png",
@@ -22871,7 +23575,9 @@
       "page": 21,
       "questionIndex": 121
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-21-image-01.png",
@@ -23035,7 +23741,9 @@
       "page": 21,
       "questionIndex": 126
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-21-image-06.png",
@@ -23104,7 +23812,9 @@
       "page": 22,
       "questionIndex": 128
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-22-image-03.png",
@@ -23223,7 +23933,9 @@
       "page": 22,
       "questionIndex": 131
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-22-image-04.png",
@@ -23259,7 +23971,9 @@
       "page": 22,
       "questionIndex": 132
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-22-image-06.png",
@@ -23295,7 +24009,9 @@
       "page": 23,
       "questionIndex": 133
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-23-image-01.png",
@@ -23331,7 +24047,9 @@
       "page": 23,
       "questionIndex": 134
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-5-հայերեն-page-23-q135",
@@ -23368,7 +24086,9 @@
       "page": 23,
       "questionIndex": 135
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-5-հայերեն-page-23-image-02.png",
@@ -23404,7 +24124,9 @@
       "page": 1,
       "questionIndex": 1
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-01-image-01.png",
@@ -23434,7 +24156,9 @@
       "page": 1,
       "questionIndex": 2
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-01-image-03.png",
@@ -23483,7 +24207,9 @@
       "page": 1,
       "questionIndex": 3
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-01-image-04.png",
@@ -23523,7 +24249,9 @@
       "page": 1,
       "questionIndex": 4
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-01-image-02.png",
@@ -23565,7 +24293,9 @@
       "page": 1,
       "questionIndex": 5
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-6-հայերեն-page-01-q006",
@@ -23590,7 +24320,9 @@
       "page": 1,
       "questionIndex": 6
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-01-image-05.png",
@@ -23664,7 +24396,9 @@
       "page": 2,
       "questionIndex": 8
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-02-image-03.png",
@@ -23706,7 +24440,9 @@
       "page": 2,
       "questionIndex": 9
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-02-image-05.png",
@@ -23774,7 +24510,9 @@
       "page": 2,
       "questionIndex": 11
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-02-image-04.png",
@@ -23810,7 +24548,9 @@
       "page": 2,
       "questionIndex": 12
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-6-հայերեն-page-03-q013",
@@ -23835,7 +24575,9 @@
       "page": 3,
       "questionIndex": 13
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-03-image-01.png",
@@ -23942,7 +24684,9 @@
       "page": 3,
       "questionIndex": 16
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-03-image-02.png",
@@ -24049,7 +24793,9 @@
       "page": 4,
       "questionIndex": 19
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-04-image-01.png",
@@ -24117,7 +24863,9 @@
       "page": 4,
       "questionIndex": 21
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-6-հայերեն-page-04-q022",
@@ -24142,7 +24890,9 @@
       "page": 4,
       "questionIndex": 22
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-6-հայերեն-page-04-q023",
@@ -24173,7 +24923,9 @@
       "page": 4,
       "questionIndex": 23
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-04-image-03.png",
@@ -24203,7 +24955,9 @@
       "page": 4,
       "questionIndex": 24
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-04-image-04.png",
@@ -24245,7 +24999,9 @@
       "page": 5,
       "questionIndex": 25
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-05-image-01.png",
@@ -24280,7 +25036,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-6-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -24313,7 +25069,9 @@
       "page": 5,
       "questionIndex": 27
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-05-image-04.png",
@@ -24419,7 +25177,9 @@
       "page": 5,
       "questionIndex": 30
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-6-հայերեն-page-06-q031",
@@ -24450,7 +25210,9 @@
       "page": 6,
       "questionIndex": 31
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-06-image-01.png",
@@ -24486,7 +25248,9 @@
       "page": 6,
       "questionIndex": 32
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-06-image-03.png",
@@ -24572,7 +25336,9 @@
       "page": 6,
       "questionIndex": 34
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-06-image-02.png",
@@ -24646,7 +25412,9 @@
       "page": 6,
       "questionIndex": 36
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-06-image-06.png",
@@ -24726,7 +25494,9 @@
       "page": 7,
       "questionIndex": 38
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-07-image-03.png",
@@ -24766,7 +25536,9 @@
       "page": 7,
       "questionIndex": 39
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-07-image-05.png",
@@ -24802,7 +25574,9 @@
       "page": 7,
       "questionIndex": 40
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-07-image-02.png",
@@ -24844,7 +25618,9 @@
       "page": 7,
       "questionIndex": 41
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-07-image-04.png",
@@ -24924,7 +25700,9 @@
       "page": 8,
       "questionIndex": 43
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-08-image-01.png",
@@ -24966,7 +25744,9 @@
       "page": 8,
       "questionIndex": 44
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-08-image-03.png",
@@ -25002,7 +25782,9 @@
       "page": 8,
       "questionIndex": 45
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-08-image-05.png",
@@ -25032,7 +25814,9 @@
       "page": 8,
       "questionIndex": 46
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-08-image-02.png",
@@ -25106,7 +25890,9 @@
       "page": 8,
       "questionIndex": 48
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-08-image-06.png",
@@ -25326,7 +26112,9 @@
       "page": 9,
       "questionIndex": 54
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-09-image-06.png",
@@ -25566,7 +26354,9 @@
       "page": 11,
       "questionIndex": 61
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-11-image-01.png",
@@ -25673,7 +26463,9 @@
       "page": 11,
       "questionIndex": 64
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-11-image-02.png",
@@ -25703,7 +26495,9 @@
       "page": 11,
       "questionIndex": 65
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-11-image-04.png",
@@ -25797,7 +26591,9 @@
       "page": 12,
       "questionIndex": 68
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-12-image-02.png",
@@ -25882,7 +26678,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-6-հայերեն-page-12.jpg",
+      "src": "",
       "page": 12
     }
   },
@@ -25973,7 +26769,9 @@
       "page": 13,
       "questionIndex": 73
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-13-image-01.png",
@@ -26214,7 +27012,9 @@
       "page": 14,
       "questionIndex": 80
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-14-image-03.png",
@@ -26250,7 +27050,9 @@
       "page": 14,
       "questionIndex": 81
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-14-image-05.png",
@@ -26280,7 +27082,9 @@
       "page": 14,
       "questionIndex": 82
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-14-image-02.png",
@@ -26322,7 +27126,9 @@
       "page": 14,
       "questionIndex": 83
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-14-image-04.png",
@@ -26352,7 +27158,9 @@
       "page": 14,
       "questionIndex": 84
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-14-image-06.png",
@@ -26426,7 +27234,9 @@
       "page": 15,
       "questionIndex": 86
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-15-image-03.png",
@@ -26526,7 +27336,9 @@
       "page": 15,
       "questionIndex": 89
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-15-image-04.png",
@@ -26556,7 +27368,9 @@
       "page": 15,
       "questionIndex": 90
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-15-image-06.png",
@@ -26592,7 +27406,9 @@
       "page": 16,
       "questionIndex": 91
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-16-image-01.png",
@@ -26628,7 +27444,9 @@
       "page": 16,
       "questionIndex": 92
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-16-image-03.png",
@@ -26658,7 +27476,9 @@
       "page": 16,
       "questionIndex": 93
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-16-image-05.png",
@@ -26694,7 +27514,9 @@
       "page": 16,
       "questionIndex": 94
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-16-image-02.png",
@@ -26730,7 +27552,9 @@
       "page": 16,
       "questionIndex": 95
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-16-image-04.png",
@@ -26896,7 +27720,9 @@
       "page": 1,
       "questionIndex": 4
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-7-հայերեն-page-01-q005",
@@ -27003,7 +27829,9 @@
       "page": 2,
       "questionIndex": 7
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-02-image-01.png",
@@ -27122,7 +27950,9 @@
       "page": 2,
       "questionIndex": 10
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-02-image-02.png",
@@ -27338,7 +28168,9 @@
       "page": 3,
       "questionIndex": 16
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-03-image-02.png",
@@ -27380,7 +28212,9 @@
       "page": 3,
       "questionIndex": 17
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-03-image-04.png",
@@ -27389,7 +28223,7 @@
   },
   {
     "id": "խումբ-7-հայերեն-page-03-q018",
-    "question": "Գծանշման այս գծերից ո՞րն է օգտագործվում դարձափոխային երթեւեկությամբ գոտիները նշելու համար։",
+    "question": "Գծանշման այս գծերից ո՞րն է օգտագործվում դարձափոխային երթեւեկությամբ գոտիները նշելու համար։ գիծը։",
     "originalOptions": [
       {
         "id": "խումբ-7-հայերեն-page-03-q018-option-1",
@@ -27406,19 +28240,19 @@
       {
         "id": "խումբ-7-հայերեն-page-03-q018-option-3",
         "sourceIndex": 3,
-        "text": "3-րդ գիծը։",
+        "text": "3-րդ եւ 3 գծերը։",
         "generated": false
       },
       {
         "id": "խումբ-7-հայերեն-page-03-q018-option-4",
         "sourceIndex": 4,
-        "text": "2-րդ եւ 3-րդ գծերը։",
+        "text": "2-րդ -րդ եւ 4 գծերը։",
         "generated": false
       },
       {
         "id": "խումբ-7-հայերեն-page-03-q018-option-5",
         "sourceIndex": 5,
-        "text": "3-րդ եւ 4-րդ գծերը։",
+        "text": "3-րդ -րդ",
         "generated": false
       }
     ],
@@ -27428,7 +28262,9 @@
       "page": 3,
       "questionIndex": 18
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-03-image-06.png",
@@ -27519,7 +28355,9 @@
       "page": 4,
       "questionIndex": 20
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-04-image-03.png",
@@ -27709,7 +28547,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-7-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -28082,7 +28920,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-7-հայերեն-page-06.jpg",
+      "src": "",
       "page": 6
     }
   },
@@ -28133,7 +28971,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-7-հայերեն-page-06.jpg",
+      "src": "",
       "page": 6
     },
     "needsReview": true,
@@ -28258,7 +29096,9 @@
       "page": 7,
       "questionIndex": 39
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-07-image-04.png",
@@ -28381,7 +29221,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-7-հայերեն-page-07.jpg",
+      "src": "",
       "page": 7
     }
   },
@@ -28444,13 +29284,13 @@
       {
         "id": "խումբ-7-հայերեն-page-08-q044-option-3",
         "sourceIndex": 3,
-        "text": "Ավտոբուսի վարորդը։",
+        "text": "Ավտոբուսի վարորդը։ և ավտոբուսի վարորդները",
         "generated": false
       },
       {
         "id": "խումբ-7-հայերեն-page-08-q044-option-4",
         "sourceIndex": 4,
-        "text": "Մոտոցիկլի եւ ավտոբուսի վարորդները։",
+        "text": "Մոտոցիկլի",
         "generated": false
       },
       {
@@ -28590,7 +29430,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-7-հայերեն-page-08.jpg",
+      "src": "",
       "page": 8
     }
   },
@@ -28662,7 +29502,9 @@
       "page": 9,
       "questionIndex": 49
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-09-image-01.png",
@@ -28786,7 +29628,9 @@
       "page": 9,
       "questionIndex": 52
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-09-image-02.png",
@@ -28822,7 +29666,9 @@
       "page": 9,
       "questionIndex": 53
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-09-image-04.png",
@@ -28864,7 +29710,9 @@
       "page": 9,
       "questionIndex": 54
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-09-image-06.png",
@@ -28906,7 +29754,9 @@
       "page": 10,
       "questionIndex": 55
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-10-image-01.png",
@@ -28974,7 +29824,9 @@
       "page": 10,
       "questionIndex": 57
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-10-image-05.png",
@@ -29036,7 +29888,9 @@
       "page": 10,
       "questionIndex": 59
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-10-image-04.png",
@@ -29078,7 +29932,9 @@
       "page": 10,
       "questionIndex": 60
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-10-image-06.png",
@@ -29597,7 +30453,9 @@
       "page": 13,
       "questionIndex": 74
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-7-հայերեն-page-13-q075",
@@ -29622,7 +30480,9 @@
       "page": 13,
       "questionIndex": 75
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-13-image-03.png",
@@ -29658,7 +30518,9 @@
       "page": 13,
       "questionIndex": 76
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-7-հայերեն-page-13-q077",
@@ -29727,7 +30589,9 @@
       "page": 13,
       "questionIndex": 78
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-13-image-04.png",
@@ -30539,7 +31403,9 @@
       "page": 17,
       "questionIndex": 100
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-17-image-02.png",
@@ -30576,7 +31442,9 @@
       "page": 17,
       "questionIndex": 101
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-17-image-04.png",
@@ -30682,7 +31550,9 @@
       "page": 18,
       "questionIndex": 104
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-18-image-03.png",
@@ -30718,7 +31588,9 @@
       "page": 18,
       "questionIndex": 105
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-18-image-05.png",
@@ -30786,7 +31658,9 @@
       "page": 18,
       "questionIndex": 107
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-18-image-04.png",
@@ -31236,7 +32110,9 @@
       "page": 20,
       "questionIndex": 119
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-20-image-04.png",
@@ -31430,7 +32306,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-7-հայերեն-page-21.jpg",
+      "src": "",
       "page": 21
     }
   },
@@ -31584,7 +32460,9 @@
       "page": 22,
       "questionIndex": 128
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-22-image-03.png",
@@ -31664,7 +32542,9 @@
       "page": 22,
       "questionIndex": 130
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-22-image-02.png",
@@ -31700,7 +32580,9 @@
       "page": 22,
       "questionIndex": 131
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-22-image-04.png",
@@ -31774,7 +32656,9 @@
       "page": 23,
       "questionIndex": 133
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-23-image-01.png",
@@ -31804,7 +32688,9 @@
       "page": 23,
       "questionIndex": 134
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-23-image-02.png",
@@ -31852,10 +32738,12 @@
       "page": 1,
       "questionIndex": 1
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-01.jpg",
+      "src": "",
       "page": 1
     },
     "needsReview": true,
@@ -31930,7 +32818,9 @@
       "page": 1,
       "questionIndex": 3
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-01-q004",
@@ -31961,10 +32851,12 @@
       "page": 1,
       "questionIndex": 4
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-01.jpg",
+      "src": "",
       "page": 1
     }
   },
@@ -31997,7 +32889,9 @@
       "page": 1,
       "questionIndex": 5
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-01-q006",
@@ -32034,7 +32928,9 @@
       "page": 1,
       "questionIndex": 6
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-8-հայերեն-page-01-image-02.png",
@@ -32070,7 +32966,9 @@
       "page": 2,
       "questionIndex": 7
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-02-q008",
@@ -32101,7 +32999,9 @@
       "page": 2,
       "questionIndex": 8
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-02-q009",
@@ -32138,7 +33038,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-02.jpg",
+      "src": "",
       "page": 2
     }
   },
@@ -32171,10 +33071,12 @@
       "page": 2,
       "questionIndex": 10
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-02.jpg",
+      "src": "",
       "page": 2
     }
   },
@@ -32207,7 +33109,9 @@
       "page": 2,
       "questionIndex": 11
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-02-q012",
@@ -32250,7 +33154,9 @@
       "page": 2,
       "questionIndex": 12
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -32291,10 +33197,12 @@
       "page": 3,
       "questionIndex": 13
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-03.jpg",
+      "src": "",
       "page": 3
     }
   },
@@ -32339,7 +33247,9 @@
       "page": 3,
       "questionIndex": 14
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -32380,7 +33290,9 @@
       "page": 3,
       "questionIndex": 15
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-8-հայերեն-page-03-image-01.png",
@@ -32416,10 +33328,12 @@
       "page": 3,
       "questionIndex": 16
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-03.jpg",
+      "src": "",
       "page": 3
     }
   },
@@ -32452,7 +33366,9 @@
       "page": 3,
       "questionIndex": 17
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-03-q018",
@@ -32495,7 +33411,9 @@
       "page": 3,
       "questionIndex": 18
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -32530,7 +33448,9 @@
       "page": 4,
       "questionIndex": 19
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-04-q020",
@@ -32561,7 +33481,9 @@
       "page": 4,
       "questionIndex": 20
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-04-q021",
@@ -32592,7 +33514,9 @@
       "page": 4,
       "questionIndex": 21
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-04-q022",
@@ -32635,7 +33559,9 @@
       "page": 4,
       "questionIndex": 22
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -32682,7 +33608,9 @@
       "page": 4,
       "questionIndex": 23
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -32690,18 +33618,18 @@
   },
   {
     "id": "խումբ-8-հայերեն-page-04-q024",
-    "question": "Քարշարկման ժամանակ տրանսպորտային միջոցների միջեւ ի՞նչ հեռավորություն պետք է ապահովի ճկուն կցիչը։",
+    "question": "Քարշարկման ժամանակ տրանսպորտային միջոցների միջեւ ի՞նչ հեռավորություն պետք է ապահովի ճկուն կցիչը։ 3 մ։",
     "originalOptions": [
       {
         "id": "խումբ-8-հայերեն-page-04-q024-option-1",
         "sourceIndex": 1,
-        "text": "1 - 3 մ։",
+        "text": "1 - 4 մ։",
         "generated": false
       },
       {
         "id": "խումբ-8-հայերեն-page-04-q024-option-2",
         "sourceIndex": 2,
-        "text": "2 - 4 մ։",
+        "text": "2 - 6 մ։",
         "generated": false
       },
       {
@@ -32715,6 +33643,12 @@
         "sourceIndex": 4,
         "text": "4 - 8 մ։",
         "generated": false
+      },
+      {
+        "id": "խումբ-8-հայերեն-page-04-q024-option-5",
+        "sourceIndex": 5,
+        "text": "4 -",
+        "generated": false
       }
     ],
     "sourceCorrectOptionIndex": 4,
@@ -32723,7 +33657,13 @@
       "page": 4,
       "questionIndex": 24
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ],
+    "needsReview": true,
+    "reviewReasons": [
+      "more-than-four-source-options"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-05-q025",
@@ -32766,10 +33706,12 @@
       "page": 5,
       "questionIndex": 25
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     },
     "needsReview": true,
@@ -32812,7 +33754,9 @@
       "page": 5,
       "questionIndex": 26
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-05-q027",
@@ -32855,7 +33799,9 @@
       "page": 5,
       "questionIndex": 27
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -32890,7 +33836,9 @@
       "page": 5,
       "questionIndex": 28
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-05-q029",
@@ -32921,7 +33869,9 @@
       "page": 5,
       "questionIndex": 29
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-05-q030",
@@ -32952,7 +33902,9 @@
       "page": 5,
       "questionIndex": 30
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-06-q031",
@@ -32983,10 +33935,12 @@
       "page": 6,
       "questionIndex": 31
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-06.jpg",
+      "src": "",
       "page": 6
     }
   },
@@ -33013,7 +33967,9 @@
       "page": 6,
       "questionIndex": 32
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-06-q033",
@@ -33044,7 +34000,9 @@
       "page": 6,
       "questionIndex": 33
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-06-q034",
@@ -33075,7 +34033,9 @@
       "page": 6,
       "questionIndex": 34
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-06-q035",
@@ -33106,10 +34066,12 @@
       "page": 6,
       "questionIndex": 35
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-06.jpg",
+      "src": "",
       "page": 6
     }
   },
@@ -33142,7 +34104,9 @@
       "page": 6,
       "questionIndex": 36
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-07-q037",
@@ -33167,7 +34131,9 @@
       "page": 7,
       "questionIndex": 37
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-07-q038",
@@ -33198,7 +34164,9 @@
       "page": 7,
       "questionIndex": 38
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-07-q039",
@@ -33229,7 +34197,9 @@
       "page": 7,
       "questionIndex": 39
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-07-q040",
@@ -33266,7 +34236,9 @@
       "page": 7,
       "questionIndex": 40
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-07-q041",
@@ -33297,7 +34269,9 @@
       "page": 7,
       "questionIndex": 41
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-07-q042",
@@ -33322,7 +34296,9 @@
       "page": 7,
       "questionIndex": 42
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-08-q043",
@@ -33353,7 +34329,9 @@
       "page": 8,
       "questionIndex": 43
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-08-q044",
@@ -33389,7 +34367,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-08.jpg",
+      "src": "",
       "page": 8
     }
   },
@@ -33422,10 +34400,12 @@
       "page": 8,
       "questionIndex": 45
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-08.jpg",
+      "src": "",
       "page": 8
     }
   },
@@ -33458,7 +34438,9 @@
       "page": 8,
       "questionIndex": 46
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-08-q047",
@@ -33483,7 +34465,9 @@
       "page": 8,
       "questionIndex": 47
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-08-q048",
@@ -33508,7 +34492,9 @@
       "page": 8,
       "questionIndex": 48
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-09-q049",
@@ -33583,7 +34569,9 @@
       "page": 9,
       "questionIndex": 50
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-8-հայերեն-page-09-image-03.png",
@@ -33657,7 +34645,9 @@
       "page": 9,
       "questionIndex": 52
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-8-հայերեն-page-09-image-02.png",
@@ -33769,7 +34759,9 @@
       "page": 10,
       "questionIndex": 55
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-8-հայերեն-page-10-image-01.png",
@@ -33805,7 +34797,9 @@
       "page": 10,
       "questionIndex": 56
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-10-q057",
@@ -33890,7 +34884,9 @@
       "page": 10,
       "questionIndex": 58
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-10-q059",
@@ -33933,7 +34929,9 @@
       "page": 10,
       "questionIndex": 59
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -33980,7 +34978,9 @@
       "page": 10,
       "questionIndex": 60
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -34020,7 +35020,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-11.jpg",
+      "src": "",
       "page": 11
     }
   },
@@ -34091,7 +35091,9 @@
       "page": 11,
       "questionIndex": 63
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-11-q064",
@@ -34170,7 +35172,9 @@
       "page": 11,
       "questionIndex": 65
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-8-հայերեն-page-11-image-03.png",
@@ -34200,7 +35204,9 @@
       "page": 11,
       "questionIndex": 66
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-12-q067",
@@ -34243,7 +35249,9 @@
       "page": 12,
       "questionIndex": 67
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -34278,7 +35286,9 @@
       "page": 12,
       "questionIndex": 68
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-12-q069",
@@ -34309,7 +35319,9 @@
       "page": 12,
       "questionIndex": 69
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-12-q070",
@@ -34346,7 +35358,9 @@
       "page": 12,
       "questionIndex": 70
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "empty-question-text"
@@ -34376,7 +35390,9 @@
       "page": 12,
       "questionIndex": 71
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-12-q072",
@@ -34424,7 +35440,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-12.jpg",
+      "src": "",
       "page": 12
     },
     "needsReview": true,
@@ -34434,12 +35450,12 @@
   },
   {
     "id": "խումբ-8-հայերեն-page-13-q073",
-    "question": "Տրանսպորտային միջոցի կողքից` եզրաչափային լույսի արտաքին եզրից 0,5 մ դուրս ցցվելու դեպքում բեռը պետք է արդյո՞ք նշվի օրվա լուսավոր ժամերին «Մեծ եզրաչափերով բեռ» ճանաչման նշանով, իսկ օրվա մութ ժամանակ և անբավարար տեսանելիության պայմաններում, նաև` առջևից սպիտակ, իսկ հետևից` կարմիր գույնի լապտերիկներով կամ լուսանդրադարձիչով։",
+    "question": "Տրանսպորտային միջոցի կողքից` եզրաչափային լույսի արտաքին եզրից 0,5 մ դուրս ցցվելու դեպքում բեռը պետք է արդյո՞ք նշվի օրվա լուսավոր ժամերին «Մեծ եզրաչափերով բեռ» ճանաչման նշանով, իսկ օրվա մութ ժամանակ և անբավարար տեսանելիության պայմաններում, նաև` առջևից սպիտակ, իսկ հետևից` կարմիր գույնի լապտերիկներով կամ լուսանդրադարձիչով: Այո",
     "originalOptions": [
       {
         "id": "խումբ-8-հայերեն-page-13-q073-option-1",
         "sourceIndex": 1,
-        "text": "Այո",
+        "text": "",
         "generated": false
       },
       {
@@ -34460,7 +35476,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-13.jpg",
+      "src": "",
       "page": 13
     },
     "needsReview": true,
@@ -34470,18 +35486,18 @@
   },
   {
     "id": "խումբ-8-հայերեն-page-13-q074",
-    "question": "Արգելվում է մինչև 12 տարեկան երեխաներին փոխադրել՝",
+    "question": "Արգելվում է մինչև 12 տարեկան երեխաներին փոխադրել Կողավոր թափքով բեռնատար ավտոմոբիլի թափքում:",
     "originalOptions": [
       {
         "id": "խումբ-8-հայերեն-page-13-q074-option-1",
         "sourceIndex": 1,
-        "text": "Կողավոր թափքով բեռնատար ավտոմոբիլի թափքում։",
+        "text": "",
         "generated": false
       },
       {
         "id": "խումբ-8-հայերեն-page-13-q074-option-2",
         "sourceIndex": 2,
-        "text": "Փուրգոն թափքով բեռնատար ավտոմոբիլի թափքում։",
+        "text": "Փուրգոն թափքով բեռնատար ավտոմոբիլի թափքում",
         "generated": false
       }
     ],
@@ -34491,10 +35507,12 @@
       "page": 13,
       "questionIndex": 74
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-13.jpg",
+      "src": "",
       "page": 13
     },
     "needsReview": true,
@@ -34521,13 +35539,13 @@
       {
         "id": "խումբ-8-հայերեն-page-13-q075-option-3",
         "sourceIndex": 3,
-        "text": "ծածկում է արտաքին լուսային սարքերն ու լուսանդրադարձիչները, համարանիշերը կամ ճանաչման նշանները, ինչպես նաև խանգարում ձեռքով տրվող ազդանշանների ընկալմանը",
+        "text": "ծածկում է արտաքին լուսային սարքերն ու լուսանդրադարձիչները, համարանիշերը կամ ճանաչման նշանները, ինչպես նաև խանգարում ձեռքով տրվող ազդանշանների ընկալմանը բոլոր դեպքերում:",
         "generated": false
       },
       {
         "id": "խումբ-8-հայերեն-page-13-q075-option-4",
         "sourceIndex": 4,
-        "text": "Բոլոր նշված դեպքերում։",
+        "text": "նշված",
         "generated": false
       }
     ],
@@ -34537,16 +35555,18 @@
       "page": 13,
       "questionIndex": 75
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-13-q076",
-    "question": "Բեռնատարով, որի վարորդը ունի B և C կարգերի տրանսպորտային միջոցներ վարելու իրավունքի վկայական, պահպանելով բեռնատարներով մարդ փոխադրելու կանոնները, թույլատրվում է փոխադրել մինչև՝",
+    "question": "Բեռնատարով, որի վարորդը ունի B և C կարգերի տրանսպորտային միջոցներ վարելու իրավունքի վկայական պահպանելով բեռնատարներով մարդ փոխադրելու կանոնները թույլատրվում է փոխադրել մինչև 8 ուղևոր",
     "originalOptions": [
       {
         "id": "խումբ-8-հայերեն-page-13-q076-option-1",
         "sourceIndex": 1,
-        "text": "8 ուղևոր",
+        "text": "",
         "generated": false
       },
       {
@@ -34568,7 +35588,9 @@
       "page": 13,
       "questionIndex": 76
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "empty-option-text"
@@ -34602,7 +35624,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-13.jpg",
+      "src": "",
       "page": 13
     }
   },
@@ -34629,7 +35651,9 @@
       "page": 13,
       "questionIndex": 78
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-8-հայերեն-page-14-q079",
@@ -34659,7 +35683,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-14.jpg",
+      "src": "",
       "page": 14
     }
   },
@@ -34691,7 +35715,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-8-հայերեն-page-14.jpg",
+      "src": "",
       "page": 14
     }
   },
@@ -34724,7 +35748,9 @@
       "page": 1,
       "questionIndex": 1
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-01-q002",
@@ -34766,7 +35792,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-01.jpg",
+      "src": "",
       "page": 1
     }
   },
@@ -34793,7 +35819,9 @@
       "page": 1,
       "questionIndex": 3
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-01-q004",
@@ -34829,7 +35857,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-01.jpg",
+      "src": "",
       "page": 1
     }
   },
@@ -34862,7 +35890,9 @@
       "page": 1,
       "questionIndex": 5
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-01-q006",
@@ -34898,7 +35928,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-01.jpg",
+      "src": "",
       "page": 1
     }
   },
@@ -34936,7 +35966,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-02.jpg",
+      "src": "",
       "page": 2
     }
   },
@@ -34974,7 +36004,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-02.jpg",
+      "src": "",
       "page": 2
     }
   },
@@ -35013,7 +36043,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-02.jpg",
+      "src": "",
       "page": 2
     }
   },
@@ -35051,7 +36081,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-02.jpg",
+      "src": "",
       "page": 2
     }
   },
@@ -35090,7 +36120,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-02.jpg",
+      "src": "",
       "page": 2
     }
   },
@@ -35128,7 +36158,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-02.jpg",
+      "src": "",
       "page": 2
     }
   },
@@ -35172,7 +36202,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-03.jpg",
+      "src": "",
       "page": 3
     }
   },
@@ -35199,7 +36229,9 @@
       "page": 3,
       "questionIndex": 14
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-03-q015",
@@ -35229,7 +36261,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-03.jpg",
+      "src": "",
       "page": 3
     }
   },
@@ -35295,7 +36327,9 @@
       "page": 3,
       "questionIndex": 17
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-03-q018",
@@ -35363,7 +36397,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-04.jpg",
+      "src": "",
       "page": 4
     }
   },
@@ -35504,7 +36538,9 @@
       "page": 4,
       "questionIndex": 23
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-04-image-03.png",
@@ -35534,7 +36570,9 @@
       "page": 4,
       "questionIndex": 24
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-05-q025",
@@ -35564,7 +36602,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -35669,10 +36707,12 @@
       "page": 5,
       "questionIndex": 28
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-05.jpg",
+      "src": "",
       "page": 5
     }
   },
@@ -35733,7 +36773,9 @@
       "page": 5,
       "questionIndex": 30
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-06-q031",
@@ -35764,7 +36806,9 @@
       "page": 6,
       "questionIndex": 31
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-06-q032",
@@ -35935,7 +36979,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-06.jpg",
+      "src": "",
       "page": 6
     }
   },
@@ -35968,7 +37012,9 @@
       "page": 7,
       "questionIndex": 37
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-07-q038",
@@ -36005,7 +37051,9 @@
       "page": 7,
       "questionIndex": 38
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-07-q039",
@@ -36036,7 +37084,9 @@
       "page": 7,
       "questionIndex": 39
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-07-q040",
@@ -36073,7 +37123,9 @@
       "page": 7,
       "questionIndex": 40
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-07-q041",
@@ -36109,7 +37161,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-07.jpg",
+      "src": "",
       "page": 7
     }
   },
@@ -36154,7 +37206,9 @@
       "page": 7,
       "questionIndex": 42
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "needsReview": true,
     "reviewReasons": [
       "more-than-four-source-options"
@@ -36189,7 +37243,9 @@
       "page": 8,
       "questionIndex": 43
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-08-q044",
@@ -36303,7 +37359,9 @@
       "page": 8,
       "questionIndex": 46
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-08-q047",
@@ -36373,7 +37431,9 @@
       "page": 8,
       "questionIndex": 48
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-09-q049",
@@ -36443,7 +37503,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-09.jpg",
+      "src": "",
       "page": 9
     }
   },
@@ -36481,7 +37541,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-09.jpg",
+      "src": "",
       "page": 9
     }
   },
@@ -36553,7 +37613,9 @@
       "page": 9,
       "questionIndex": 53
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-09-q054",
@@ -36595,7 +37657,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-09.jpg",
+      "src": "",
       "page": 9
     }
   },
@@ -36634,7 +37696,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-10.jpg",
+      "src": "",
       "page": 10
     }
   },
@@ -36672,7 +37734,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-10.jpg",
+      "src": "",
       "page": 10
     }
   },
@@ -36705,7 +37767,9 @@
       "page": 10,
       "questionIndex": 57
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-10-q058",
@@ -36741,7 +37805,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-10.jpg",
+      "src": "",
       "page": 10
     }
   },
@@ -36779,7 +37843,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-10.jpg",
+      "src": "",
       "page": 10
     }
   },
@@ -36845,7 +37909,9 @@
       "page": 11,
       "questionIndex": 61
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-11-image-01.png",
@@ -36880,7 +37946,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-11.jpg",
+      "src": "",
       "page": 11
     }
   },
@@ -36907,7 +37973,9 @@
       "page": 11,
       "questionIndex": 63
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-11-image-02.png",
@@ -36942,7 +38010,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-11.jpg",
+      "src": "",
       "page": 11
     }
   },
@@ -36974,7 +38042,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-11.jpg",
+      "src": "",
       "page": 11
     }
   },
@@ -37018,7 +38086,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-11.jpg",
+      "src": "",
       "page": 11
     }
   },
@@ -37062,7 +38130,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-12.jpg",
+      "src": "",
       "page": 12
     }
   },
@@ -37172,7 +38240,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-12.jpg",
+      "src": "",
       "page": 12
     }
   },
@@ -37243,10 +38311,12 @@
       "page": 12,
       "questionIndex": 72
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-12.jpg",
+      "src": "",
       "page": 12
     }
   },
@@ -37381,7 +38451,9 @@
       "page": 13,
       "questionIndex": 76
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-13-q077",
@@ -37417,7 +38489,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-13.jpg",
+      "src": "",
       "page": 13
     }
   },
@@ -37526,7 +38598,9 @@
       "page": 14,
       "questionIndex": 80
     },
-    "categories": []
+    "categories": [
+      "Այլ"
+    ]
   },
   {
     "id": "խումբ-9-հայերեն-page-14-q081",
@@ -37799,7 +38873,9 @@
       "page": 15,
       "questionIndex": 88
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-15-image-02.png",
@@ -37911,7 +38987,9 @@
       "page": 16,
       "questionIndex": 91
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-16-image-01.png",
@@ -38087,7 +39165,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-16.jpg",
+      "src": "",
       "page": 16
     }
   },
@@ -38152,7 +39230,9 @@
       "page": 17,
       "questionIndex": 98
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-17-image-03.png",
@@ -38378,7 +39458,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-18.jpg",
+      "src": "",
       "page": 18
     }
   },
@@ -38444,7 +39524,9 @@
       "page": 18,
       "questionIndex": 106
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-18-image-02.png",
@@ -38480,7 +39562,9 @@
       "page": 18,
       "questionIndex": 107
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-18-image-03.png",
@@ -38593,7 +39677,9 @@
       "page": 19,
       "questionIndex": 110
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-19-image-03.png",
@@ -38704,7 +39790,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-19.jpg",
+      "src": "",
       "page": 19
     }
   },
@@ -38776,7 +39862,7 @@
     ],
     "visual": {
       "type": "page",
-      "src": "/question-pages/խումբ-9-հայերեն-page-20.jpg",
+      "src": "",
       "page": 20
     }
   },
@@ -38977,7 +40063,9 @@
       "page": 21,
       "questionIndex": 121
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-21-image-01.png",
@@ -39013,7 +40101,9 @@
       "page": 21,
       "questionIndex": 122
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-21-image-03.png",
@@ -39049,7 +40139,9 @@
       "page": 21,
       "questionIndex": 123
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-21-image-05.png",
@@ -39085,7 +40177,9 @@
       "page": 21,
       "questionIndex": 124
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-21-image-02.png",
@@ -39115,7 +40209,9 @@
       "page": 21,
       "questionIndex": 125
     },
-    "categories": [],
+    "categories": [
+      "Այլ"
+    ],
     "visual": {
       "type": "image",
       "src": "/question-images/խումբ-9-հայերեն-page-21-image-04.png",

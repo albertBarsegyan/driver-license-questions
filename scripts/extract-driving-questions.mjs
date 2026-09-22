@@ -24,15 +24,20 @@ const answerPattern = /Պատ[․.՝]?[՝:]?\s*([0-9]+)/u;
 // Source sets use both `1.Տարբերակ` and `1. Տարբերակ` (occasionally `1 .`).
 const optionPattern = /(?:^|\n)([1-9][0-9]*)\s*\.(?=\s*\S)/gu;
 const visualLanguage = /նկար|իրադրությ|նշված (?:տեղ|գոտ|հետագծ)|ավտոմոբիլ|տրանսպորտային միջոցի վարորդ|ուղղությ(?:ամ|ո)ւն|նշան|գծանշ/u;
-function classify(question) {
+function classify(question, file) {
   const rules = [
+    ["Առաջին օգնություն", /օգնություն|տուժած|վնասված|արյունահոս|վերք|կոտրված|շնչառ|այրված|ցնցում/u],
     ["Ճանապարհային նշաններ", /նշան/u], ["Գծանշումներ", /գծանշ/u], ["Երկաթուղային գծանցներ", /երկաթուղ/u],
     ["Հետիոտներ", /հետիոտ/u], ["Հեծանվորդներ", /հեծանվ/u], ["Տրամվայ", /տրամվայ/u],
     ["Կանգառ", /կանգառ/u], ["Կայանում", /կայան/u], ["Վազանց", /վազանց/u], ["Հետընթաց", /հետընթաց/u],
     ["Հետադարձ", /հետադարձ/u], ["Շրջադարձ", /շրջադարձ/u], ["Խաչմերուկներ", /խաչմերուկ/u],
     ["Առաջնահերթություն", /առաջնահերթ/u], ["Վերադասավորում", /վերադաս/u], ["Մերձակա տարածք", /բակ|մերձակա/u],
   ];
-  return rules.filter(([, test]) => test.test(question)).map(([category]) => category).slice(0, 2) || ["Այլ"];
+  // Group 10 is the first-aid question set. Some of its short prompts don't
+  // contain a medical keyword, so assign the category from its source set.
+  if (file === "Խումբ-10 (հայերեն).pdf") return ["Առաջին օգնություն"];
+  const matches = rules.filter(([, test]) => test.test(question)).map(([category]) => category).slice(0, 2);
+  return matches.length ? matches : ["Այլ"];
 }
 
 function shell(command, args) {
@@ -97,7 +102,7 @@ function parseBlock(lines, context) {
       originalOptions: options.map((option) => ({ id: `${id}-option-${option.sourceIndex}`, ...option, generated: false })),
       sourceCorrectOptionIndex: sourceAnswer,
       source: { file: context.file, page: context.page, questionIndex: context.questionIndex },
-      categories: classify(question),
+      categories: classify(question, context.file),
       ...(visual ? { visual } : {}),
       ...(reasons.length ? { needsReview: true, reviewReasons: reasons } : {}),
     },
