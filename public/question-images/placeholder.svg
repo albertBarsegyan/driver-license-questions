@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="title description">
+  <title id="title">Հարցի համար պատկեր հասանելի չէ</title>
+  <desc id="description">Neutral road-sign illustration used when a driving question has no source image.</desc>
+  <rect width="640" height="320" fill="#f4f3ef"/>
+  <path d="M0 258h640" stroke="#d9ddd5" stroke-width="4"/>
+  <path d="M270 320 310 162h20l40 158" fill="#dce8e1"/>
+  <path d="M292 320 316 162h8l24 158" fill="#173c36" opacity=".12"/>
+  <path d="M320 187v25M320 237v25M320 287v25" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M320 61 401 108 320 155 239 108Z" fill="#fff" stroke="#b15b38" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M320 86v35M320 135v1" stroke="#173c36" stroke-width="10" stroke-linecap="round"/>
+  <text x="320" y="296" fill="#52615a" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">ՊԱՏԿԵՐԸ ԲԱՑԱԿԱՅՈՒՄ Է</text>
+</svg>

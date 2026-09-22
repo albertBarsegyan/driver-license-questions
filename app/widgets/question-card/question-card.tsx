@@ -5,7 +5,10 @@ export function SourceLine({ question }: { question: SourceQuestion }) {
 }
 
 export function QuestionVisual({ question }: { question: SourceQuestion }) {
-  if (!question.visual) return null;
+  if (!question.visual) {
+    return <figure className="visual visual-placeholder"><img src="/question-images/placeholder.svg" alt="Հարցի նկար չկա" loading="lazy" /><figcaption>Այս հարցի համար պատկեր հասանելի չէ։</figcaption></figure>;
+  }
+
   const extracted = question.visual.type === "image";
   return <figure className="visual"><img src={question.visual.src} alt={extracted ? `Հարցի բնօրինակ պատկեր՝ էջ ${question.visual.page}` : `Աղբյուրի էջ ${question.visual.page}`} loading="lazy" /><figcaption>{extracted ? `PDF-ից արտածված բնօրինակ պատկեր · էջ ${question.visual.page}` : `Աղբյուրի էջ ${question.visual.page}. Նկարը ցուցադրված է ամբողջական համատեքստով։`}</figcaption></figure>;
 }
