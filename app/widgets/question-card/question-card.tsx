@@ -6,7 +6,7 @@ export function SourceLine({ question }: { question: SourceQuestion }) {
 
 export function QuestionVisual({ question }: { question: SourceQuestion }) {
   if (!question.visual?.src) {
-    return <figure className="visual visual-placeholder"><img src="/question-images/placeholder.jpg" alt="Հարցի նկար չկա" loading="lazy" /><figcaption>Այս հարցի համար պատկեր հասանելի չէ։</figcaption></figure>;
+    return null;
   }
 
   const extracted = question.visual.type === "image";
