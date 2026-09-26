@@ -4,19 +4,19 @@
   "pagesProcessed": 186,
   "questionsExtracted": 1094,
   "questionsWithImages": 802,
-  "questionsWithExtractedImages": 723,
-  "questionsWithPageVisualFallback": 79,
+  "questionsWithExtractedImages": 725,
+  "questionsWithPageVisualFallback": 77,
   "questionsWithFourSourceOptions": 152,
   "questionsWithGeneratedDistractors": 0,
-  "totalSourceOptions": 3249,
-  "questionsWith2SourceOptions": 289,
-  "questionsWith3SourceOptions": 601,
+  "totalSourceOptions": 3250,
+  "questionsWith2SourceOptions": 288,
+  "questionsWith3SourceOptions": 602,
   "questionsWith4SourceOptions": 152,
   "questionsRequiringGeneratedDistractors": 890,
   "totalGeneratedDistractors": 0,
   "duplicateGroups": 12,
-  "reviewRequiredQuestions": 58,
-  "warnings": 58,
+  "reviewRequiredQuestions": 52,
+  "warnings": 52,
   "errors": 0,
   "files": [
     {
@@ -56,12 +56,12 @@
       "filename": "Խումբ-3 (հայերեն).pdf",
       "path": "docs/Խումբ-3 (հայերեն).pdf",
       "pages": 13,
-      "extractionStatus": "completed-with-warnings",
+      "extractionStatus": "completed",
       "questionsFound": 78,
       "imageDependentQuestions": 0,
       "answerKeysFound": 78,
-      "parsingWarnings": 1,
-      "unresolvedQuestions": 1
+      "parsingWarnings": 0,
+      "unresolvedQuestions": 0
     },
     {
       "filename": "Խումբ-4 (հայերեն).pdf",
@@ -69,10 +69,10 @@
       "pages": 30,
       "extractionStatus": "completed-with-warnings",
       "questionsFound": 176,
-      "imageDependentQuestions": 174,
+      "imageDependentQuestions": 175,
       "answerKeysFound": 176,
-      "parsingWarnings": 26,
-      "unresolvedQuestions": 1
+      "parsingWarnings": 25,
+      "unresolvedQuestions": 0
     },
     {
       "filename": "Խումբ-5 (հայերեն).pdf",
@@ -113,10 +113,10 @@
       "pages": 14,
       "extractionStatus": "completed-with-warnings",
       "questionsFound": 80,
-      "imageDependentQuestions": 32,
+      "imageDependentQuestions": 31,
       "answerKeysFound": 80,
-      "parsingWarnings": 19,
-      "unresolvedQuestions": 4
+      "parsingWarnings": 15,
+      "unresolvedQuestions": 0
     },
     {
       "filename": "Խումբ-9 (հայերեն).pdf",

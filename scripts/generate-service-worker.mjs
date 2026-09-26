@@ -30,12 +30,23 @@ async function listFiles(directory) {
 const assetDirectory = path.join(clientDirectory, "assets");
 const assetFiles = await listFiles(assetDirectory);
 const assetUrls = assetFiles
-  .map((file) => `/${path.relative(clientDirectory, file).split(path.sep).join("/")}`)
+  .map(
+    (file) =>
+      `/${path.relative(clientDirectory, file).split(path.sep).join("/")}`,
+  )
   .sort();
 const precache = [...staticShellFiles, ...assetUrls];
-const version = createHash("sha256").update(JSON.stringify(precache)).digest("hex").slice(0, 12);
+const version = createHash("sha256")
+  .update(JSON.stringify(precache))
+  .digest("hex")
+  .slice(0, 12);
 const worker = await readFile(workerSource, "utf8");
 const generatedWorker = `self.__PWA_CACHE_VERSION__ = ${JSON.stringify(version)};\nself.__PWA_PRECACHE_MANIFEST__ = ${JSON.stringify(precache)};\n${worker}`;
 
-await writeFile(path.join(clientDirectory, "service-worker.js"), generatedWorker);
-console.log(`Generated service worker with ${precache.length} precached files.`);
+await writeFile(
+  path.join(clientDirectory, "service-worker.js"),
+  generatedWorker,
+);
+console.log(
+  `Generated service worker with ${precache.length} precached files.`,
+);

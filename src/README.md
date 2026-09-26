@@ -3,9 +3,11 @@
 ## Layers
 
 ### app
+
 Application initialization and global configuration.
 
 Examples:
+
 - providers
 - router
 - global styles
@@ -13,18 +15,22 @@ Examples:
 - application configuration
 
 ### pages
+
 Complete application pages.
 
 Examples:
+
 - home
 - dashboard
 - login
 - profile
 
 ### widgets
+
 Large reusable UI blocks composed from entities/features.
 
 Examples:
+
 - header
 - sidebar
 - user-profile
@@ -32,9 +38,11 @@ Examples:
 - dashboard-overview
 
 ### features
+
 User interactions and business actions.
 
 Examples:
+
 - auth-by-email
 - add-to-cart
 - create-order
@@ -42,9 +50,11 @@ Examples:
 - upload-avatar
 
 ### entities
+
 Business domain objects.
 
 Examples:
+
 - user
 - product
 - order
@@ -52,9 +62,11 @@ Examples:
 - invoice
 
 ### shared
+
 Reusable code without business-domain knowledge.
 
 Examples:
+
 - UI components
 - API clients
 - utilities

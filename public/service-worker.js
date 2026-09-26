@@ -14,7 +14,10 @@ const APP_SHELL = self.__PWA_PRECACHE_MANIFEST__ || [
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(CACHE).then((cache) => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()),
+    caches
+      .open(CACHE)
+      .then((cache) => cache.addAll(APP_SHELL))
+      .then(() => self.skipWaiting()),
   );
 });
 self.addEventListener("activate", (event) => {
@@ -42,11 +45,15 @@ self.addEventListener("fetch", (event) => {
         .then((response) => {
           if (response.ok) {
             const copy = response.clone();
-            event.waitUntil(caches.open(CACHE).then((cache) => cache.put(request, copy)));
+            event.waitUntil(
+              caches.open(CACHE).then((cache) => cache.put(request, copy)),
+            );
           }
           return response;
         })
-        .catch(() => caches.match(request).then((cached) => cached || caches.match("/"))),
+        .catch(() =>
+          caches.match(request).then((cached) => cached || caches.match("/")),
+        ),
     );
     return;
   }
@@ -57,7 +64,9 @@ self.addEventListener("fetch", (event) => {
         fetch(request).then((response) => {
           if (response.ok) {
             const copy = response.clone();
-            event.waitUntil(caches.open(CACHE).then((cache) => cache.put(request, copy)));
+            event.waitUntil(
+              caches.open(CACHE).then((cache) => cache.put(request, copy)),
+            );
           }
           return response;
         }),

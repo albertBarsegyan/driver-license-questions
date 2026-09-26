@@ -1,5 +1,9 @@
 /** Register only in production and only in browsers that support service workers. */
-if (import.meta.env.PROD && typeof window !== "undefined" && "serviceWorker" in navigator) {
+if (
+  import.meta.env.PROD &&
+  typeof window !== "undefined" &&
+  "serviceWorker" in navigator
+) {
   window.addEventListener("load", () => {
     navigator.serviceWorker
       .register("/service-worker.js", { scope: "/" })

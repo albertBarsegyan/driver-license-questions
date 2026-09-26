@@ -31,8 +31,8 @@
         "src": "/question-images/խումբ-1-հայերեն-page-01-image-04.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 237.6,
+    "startY": 40.386537,
+    "endY": 237.566515,
     "id": "խումբ-1-հայերեն-page-01-q001",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է կոչվում «Արգելքի շրջանցումը ձախից»։",
@@ -93,8 +93,8 @@
         "src": "/question-images/խումբ-1-հայերեն-page-02-image-04.png"
       }
     ],
-    "startY": 303.2,
-    "endY": 406.7,
+    "startY": 303.236467,
+    "endY": 406.676472,
     "id": "խումբ-1-հայերեն-page-02-q008",
     "reason": "more-than-four-source-options",
     "extractedText": "Հետադարձն արգելվում է՝",
@@ -155,8 +155,8 @@
         "src": "/question-images/խումբ-1-հայերեն-page-04-image-04.png"
       }
     ],
-    "startY": 535.2,
-    "endY": 648.5,
+    "startY": 535.216509,
+    "endY": 648.5265,
     "id": "խումբ-1-հայերեն-page-04-q021",
     "reason": "more-than-four-source-options",
     "extractedText": "Հետադարձն արգելվում է՝",
@@ -183,31 +183,6 @@
       }
     ],
     "sourceAnswer": 5,
-    "visualReviewRequired": false
-  },
-  {
-    "file": "Խումբ-3 (հայերեն).pdf",
-    "page": 12,
-    "questionIndex": 71,
-    "sourceId": "խումբ-3-հայերեն",
-    "side": "right",
-    "images": [],
-    "startY": 313.2,
-    "endY": 396.7,
-    "id": "խումբ-3-հայերեն-page-12-q071",
-    "reason": "answer-index-not-present-in-options",
-    "extractedText": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե անվահեցի կամ անվասկավառակի վրա առկա են ճաքեր",
-    "extractedOptions": [
-      {
-        "sourceIndex": 1,
-        "text": "անվահեցի ամրացման անցքերի ձևի և չափերի տեսանելի"
-      },
-      {
-        "sourceIndex": 2,
-        "text": "խախտումներ են առկա երկու դեպքում էլ 3."
-      }
-    ],
-    "sourceAnswer": 3,
     "visualReviewRequired": false
   },
   {
@@ -254,8 +229,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-01-image-06.png"
       }
     ],
-    "startY": 277.3,
-    "endY": 487.1,
+    "startY": 277.2938,
+    "endY": 487.0738,
     "id": "խումբ-4-հայերեն-page-01-q002",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է արգելում երթեւեկությունը նշանի վրա պատկերվածից ավելի փոքր միջտարածությամբ։",
@@ -328,31 +303,31 @@
         "src": "/question-images/խումբ-4-հայերեն-page-01-image-06.png"
       }
     ],
-    "startY": 277.3,
-    "endY": 481,
+    "startY": 277.2938,
+    "endY": 480.9538,
     "id": "խումբ-4-հայերեն-page-01-q005",
     "reason": "more-than-four-source-options",
-    "extractedText": "Ճանապարհի վտանգավոր հատվածի տեղամասից ի՞նչ հեռավորության վրա են տեղադրվում այս նշանները բնակավայրերում։ 25 մ։",
+    "extractedText": "Ճանապարհի վտանգավոր հատվածի տեղամասից ի՞նչ հեռավորության վրա են տեղադրվում այս նշանները բնակավայրերում։",
     "extractedOptions": [
       {
         "sourceIndex": 1,
-        "text": "15 - 50 մ։"
+        "text": "15 - 25 մ։"
       },
       {
         "sourceIndex": 2,
-        "text": "25 - 100 մ։"
+        "text": "25 - 50 մ։"
       },
       {
         "sourceIndex": 3,
-        "text": "50 - 150 մ։"
+        "text": "50 - 100 մ։"
       },
       {
         "sourceIndex": 4,
-        "text": "100 - 300 մ։"
+        "text": "100 - 150 մ։"
       },
       {
         "sourceIndex": 5,
-        "text": "150 -"
+        "text": "150 - 300 մ։"
       }
     ],
     "sourceAnswer": 3,
@@ -402,8 +377,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-01-image-06.png"
       }
     ],
-    "startY": 514.2,
-    "endY": 725.9,
+    "startY": 514.1938,
+    "endY": 725.8998,
     "id": "խումբ-4-հայերեն-page-01-q006",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է պարտադրում զիջել ճանապարհը հանդիպակաց ուղղությամբ ճանապարհի նեղ հատված մուտք գործող կամ դրան մոտեցող տրանսպորտային միջոցներին։",
@@ -476,8 +451,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-02-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 250.1,
+    "startY": 40.3638,
+    "endY": 250.1438,
     "id": "խումբ-4-հայերեն-page-02-q007",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է նախազգուշացնում հավասարազոր ճանապարհների խաչմերուկին մոտենալու մասին։",
@@ -550,8 +525,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-02-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 250.1,
+    "startY": 40.3638,
+    "endY": 250.1438,
     "id": "խումբ-4-հայերեն-page-02-q010",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է տեղադրվում երթեւեկելի մասերի հատումից անմիջապես առաջ։",
@@ -624,8 +599,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-02-image-06.png"
       }
     ],
-    "startY": 277.3,
-    "endY": 487.1,
+    "startY": 277.2938,
+    "endY": 487.0738,
     "id": "խումբ-4-հայերեն-page-02-q011",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է վարորդին առավելություն տալիս հանդիպակաց տրանսպորտային միջոցների նկատմամբ։",
@@ -698,8 +673,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-03-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 240.2,
+    "startY": 40.3638,
+    "endY": 240.1838,
     "id": "խումբ-4-հայերեն-page-03-q013",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է արգելում կայանումն ամսվա զույգ օրերին։",
@@ -772,8 +747,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-03-image-06.png"
       }
     ],
-    "startY": 277.3,
-    "endY": 487.1,
+    "startY": 277.2938,
+    "endY": 487.0738,
     "id": "խումբ-4-հայերեն-page-03-q014",
     "reason": "more-than-four-source-options",
     "extractedText": "Հետեւյալ նշաններից ո՞րն է պարտադրում զիջել ճանապարհը հանդիպակաց երթեւեկող տրանսպորտային միջոցներին։",
@@ -846,8 +821,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-03-image-06.png"
       }
     ],
-    "startY": 514.2,
-    "endY": 724,
+    "startY": 514.1938,
+    "endY": 723.9798,
     "id": "խումբ-4-հայերեն-page-03-q015",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է պարտադրում զիջել ճանապարհը հատվող ճանապարհով ընթացող տրանսպորտային միջոցներին։",
@@ -920,8 +895,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-04-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 250.1,
+    "startY": 40.3638,
+    "endY": 250.1438,
     "id": "խումբ-4-հայերեն-page-04-q019",
     "reason": "more-than-four-source-options",
     "extractedText": "Հետեւյալ նշաններից ո՞րն է թույլատրում երթեւեկել միայն նշված (կմ/ժ) կամ ավելի բարձր արագությամբ։",
@@ -994,8 +969,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-04-image-06.png"
       }
     ],
-    "startY": 514.2,
-    "endY": 702.4,
+    "startY": 514.1938,
+    "endY": 702.3798,
     "id": "խումբ-4-հայերեն-page-04-q021",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է ցույց տալիս տրանսպորտային միջոցների կանգառն ու կայանելն արգելող ճանապարհային նշանների ազդման գոտին։",
@@ -1068,8 +1043,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-04-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 250.1,
+    "startY": 40.3638,
+    "endY": 250.1438,
     "id": "խումբ-4-հայերեն-page-04-q022",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է ցույց տալիս միակողմ երթեւեկության ճանապարհի հատվածը։",
@@ -1142,8 +1117,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-04-image-06.png"
       }
     ],
-    "startY": 514.2,
-    "endY": 718.9,
+    "startY": 514.1938,
+    "endY": 718.9398,
     "id": "խումբ-4-հայերեն-page-04-q024",
     "reason": "more-than-four-source-options",
     "extractedText": "Հետեւյալ նշաններից ո՞րն է ցույց տալիս նախազգուշացնող նշանների ազդեցության` ճանապարհի վտանգավոր հատվածի երկարությունը։",
@@ -1216,8 +1191,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-05-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 240.2,
+    "startY": 40.3638,
+    "endY": 240.1838,
     "id": "խումբ-4-հայերեն-page-05-q028",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է կոչվում «Հյուրանոց» կամ «Մոթել»։",
@@ -1290,8 +1265,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-05-image-06.png"
       }
     ],
-    "startY": 277.3,
-    "endY": 487.1,
+    "startY": 277.2938,
+    "endY": 487.0738,
     "id": "խումբ-4-հայերեն-page-05-q029",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է ցույց տալիս 50 կմ/ժ առավելագույն արագության սահմանափակման գոտու վերջը։",
@@ -1364,8 +1339,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-06-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 250.1,
+    "startY": 40.3638,
+    "endY": 250.1438,
     "id": "խումբ-4-հայերեն-page-06-q031",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է վերացնում նախկին բոլոր սահմանափակումները։",
@@ -1438,8 +1413,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-06-image-06.png"
       }
     ],
-    "startY": 514.2,
-    "endY": 718,
+    "startY": 514.1938,
+    "endY": 717.9798,
     "id": "խումբ-4-հայերեն-page-06-q033",
     "reason": "more-than-four-source-options",
     "extractedText": "Հետեւյալ նշաններից (ցուցանակներից) ո՞րն է ցույց տալիս տրանսպորտային միջոցի կանգնեցման ձեւը կայանման տեղերում։",
@@ -1512,8 +1487,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-06-image-06.png"
       }
     ],
-    "startY": 277.3,
-    "endY": 487.1,
+    "startY": 277.2938,
+    "endY": 487.0738,
     "id": "խումբ-4-հայերեն-page-06-q035",
     "reason": "more-than-four-source-options",
     "extractedText": "Ո՞ր նշանն է պարտադրում զիջել ճանապարհը հատվող ճանապարհով երթեւեկող տրանսպորտային միջոցներին։",
@@ -1586,8 +1561,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-07-image-06.png"
       }
     ],
-    "startY": 269.4,
-    "endY": 479,
+    "startY": 269.3738,
+    "endY": 479.0338,
     "id": "խումբ-4-հայերեն-page-07-q038",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է ցույց տալիս երթեւեկության ուղղությունները T-աձեւ խաչմերուկում։",
@@ -1660,8 +1635,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-07-image-06.png"
       }
     ],
-    "startY": 498.2,
-    "endY": 708,
+    "startY": 498.2338,
+    "endY": 708.0198,
     "id": "խումբ-4-հայերեն-page-07-q039",
     "reason": "more-than-four-source-options",
     "extractedText": "Ո՞ ր նշանի ազդեցությունը չի տարածվում ընդհանուր օգտագործման տրանսպորտային միջոցների վրա։",
@@ -1734,8 +1709,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-07-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 250.1,
+    "startY": 40.3638,
+    "endY": 250.1438,
     "id": "խումբ-4-հայերեն-page-07-q040",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է կոչվում «Հատում հեծանվային արահետի հետ»։",
@@ -1808,8 +1783,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-08-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 240.2,
+    "startY": 40.3638,
+    "endY": 240.1838,
     "id": "խումբ-4-հայերեն-page-08-q043",
     "reason": "more-than-four-source-options",
     "extractedText": "Այս ճանապարհային նշաններից ո՞րը չի համարվում արգելող։",
@@ -1882,8 +1857,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-08-image-06.png"
       }
     ],
-    "startY": 269.4,
-    "endY": 479,
+    "startY": 269.3738,
+    "endY": 479.0338,
     "id": "խումբ-4-հայերեն-page-08-q044",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է կոչվում «Միակողմ երթեւեկությամբ ճանապարհի վերջ»։",
@@ -1956,8 +1931,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-08-image-06.png"
       }
     ],
-    "startY": 269.4,
-    "endY": 479,
+    "startY": 269.3738,
+    "endY": 479.0338,
     "id": "խումբ-4-հայերեն-page-08-q047",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է պարտադրում զիջել ճանապարհը հատվող ճանապարհով ընթացող տրանսպորտային միջոցներին։",
@@ -2030,8 +2005,8 @@
         "src": "/question-images/խումբ-4-հայերեն-page-09-image-06.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 250.1,
+    "startY": 40.3638,
+    "endY": 250.1438,
     "id": "խումբ-4-հայերեն-page-09-q052",
     "reason": "more-than-four-source-options",
     "extractedText": "Նշաններից ո՞րն է ցույց տալիս արգելքի շրջանցումն աջից կամ ձախից։",
@@ -2058,76 +2033,6 @@
       }
     ],
     "sourceAnswer": 5,
-    "visualReviewRequired": false
-  },
-  {
-    "file": "Խումբ-4 (հայերեն).pdf",
-    "page": 16,
-    "questionIndex": 93,
-    "sourceId": "խումբ-4-հայերեն",
-    "side": "left",
-    "images": [
-      {
-        "x": 54.666666666666664,
-        "y": 65.33333333333333,
-        "side": "left",
-        "src": "/question-images/խումբ-4-հայերեն-page-16-image-01.png"
-      },
-      {
-        "x": 317.3333333333333,
-        "y": 78,
-        "side": "right",
-        "src": "/question-images/խումբ-4-հայերեն-page-16-image-02.png"
-      },
-      {
-        "x": 126.66666666666667,
-        "y": 286.6666666666667,
-        "side": "left",
-        "src": "/question-images/խումբ-4-հայերեն-page-16-image-03.png"
-      },
-      {
-        "x": 317.3333333333333,
-        "y": 289.3333333333333,
-        "side": "right",
-        "src": "/question-images/խումբ-4-հայերեն-page-16-image-04.png"
-      },
-      {
-        "x": 54,
-        "y": 498,
-        "side": "left",
-        "src": "/question-images/խումբ-4-հայերեն-page-16-image-05.png"
-      },
-      {
-        "x": 316.6666666666667,
-        "y": 526,
-        "side": "right",
-        "src": "/question-images/խումբ-4-հայերեն-page-16-image-06.png"
-      }
-    ],
-    "startY": 616.2,
-    "endY": 664,
-    "id": "խումբ-4-հայերեն-page-16-q093",
-    "reason": "empty-question-text",
-    "extractedText": "",
-    "extractedOptions": [
-      {
-        "sourceIndex": 1,
-        "text": "1 և 3"
-      },
-      {
-        "sourceIndex": 2,
-        "text": "1 և 4"
-      },
-      {
-        "sourceIndex": 3,
-        "text": "միայն 2-ը"
-      },
-      {
-        "sourceIndex": 4,
-        "text": "2 և 3"
-      }
-    ],
-    "sourceAnswer": 3,
     "visualReviewRequired": false
   },
   {
@@ -2168,8 +2073,8 @@
         "src": "/question-images/խումբ-6-հայերեն-page-01-image-05.png"
       }
     ],
-    "startY": 506.3,
-    "endY": 714.3,
+    "startY": 506.2738,
+    "endY": 714.2598,
     "id": "խումբ-6-հայերեն-page-01-q003",
     "reason": "more-than-four-source-options",
     "extractedText": "Ո՞ր պատասխանում են ճիշտ նշված այն տրանսպորտային միջոցները, որոնց թույլատրվում է երթեւեկությունը։",
@@ -2242,8 +2147,8 @@
         "src": "/question-images/խումբ-6-հայերեն-page-07-image-06.png"
       }
     ],
-    "startY": 269.4,
-    "endY": 467.4,
+    "startY": 269.3738,
+    "endY": 467.3938,
     "id": "խումբ-6-հայերեն-page-07-q038",
     "reason": "more-than-four-source-options",
     "extractedText": "Երթեւեկությունը թույլատրվում է՝",
@@ -2304,8 +2209,8 @@
         "src": "/question-images/խումբ-7-հայերեն-page-01-image-04.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 237.2,
+    "startY": 40.3638,
+    "endY": 237.1838,
     "id": "խումբ-7-հայերեն-page-01-q001",
     "reason": "more-than-four-source-options",
     "extractedText": "Ո՞ր տրանսպորտային միջոցներին է թույլատրվում կայանումը։",
@@ -2366,8 +2271,8 @@
         "src": "/question-images/խումբ-7-հայերեն-page-01-image-04.png"
       }
     ],
-    "startY": 540.1,
-    "endY": 643.6,
+    "startY": 540.1138,
+    "endY": 643.5838,
     "id": "խումբ-7-հայերեն-page-01-q006",
     "reason": "more-than-four-source-options",
     "extractedText": "Երկաթուղային գծանցներից ի՞նչ հեռավորության վրա է արգելվում տրանսպորտային միջոցների կայանումը։",
@@ -2440,11 +2345,11 @@
         "src": "/question-images/խումբ-7-հայերեն-page-03-image-06.png"
       }
     ],
-    "startY": 514.2,
-    "endY": 721,
+    "startY": 514.1938,
+    "endY": 720.9798,
     "id": "խումբ-7-հայերեն-page-03-q018",
     "reason": "more-than-four-source-options",
-    "extractedText": "Գծանշման այս գծերից ո՞րն է օգտագործվում դարձափոխային երթեւեկությամբ գոտիները նշելու համար։ գիծը։",
+    "extractedText": "Գծանշման այս գծերից ո՞րն է օգտագործվում դարձափոխային երթեւեկությամբ գոտիները նշելու համար։",
     "extractedOptions": [
       {
         "sourceIndex": 1,
@@ -2456,15 +2361,15 @@
       },
       {
         "sourceIndex": 3,
-        "text": "3-րդ եւ 3 գծերը։"
+        "text": "3-րդ գիծը։"
       },
       {
         "sourceIndex": 4,
-        "text": "2-րդ -րդ եւ 4 գծերը։"
+        "text": "2-րդ եւ 3 -րդ գծերը։"
       },
       {
         "sourceIndex": 5,
-        "text": "3-րդ -րդ"
+        "text": "3-րդ եւ 4 -րդ գծերը։"
       }
     ],
     "sourceAnswer": 2,
@@ -2496,8 +2401,8 @@
         "src": "/question-images/խումբ-7-հայերեն-page-06-image-03.png"
       }
     ],
-    "startY": 530.2,
-    "endY": 653.5,
+    "startY": 530.1538,
+    "endY": 653.5438,
     "id": "խումբ-7-հայերեն-page-06-q036",
     "reason": "more-than-four-source-options",
     "extractedText": "«Կանգ-գծից» կամ «Երթեւեկությունն առանց կանգառի արգելվում է» նշանից ի՞նչ հեռավարության վրա պետք է կանգնեցվի տրանսպորտային միջոցը՝ մոտեցող գնացքին ճանապարհը զիջելու համար։",
@@ -2558,8 +2463,8 @@
         "src": "/question-images/խումբ-7-հայերեն-page-07-image-04.png"
       }
     ],
-    "startY": 514.2,
-    "endY": 721,
+    "startY": 514.1938,
+    "endY": 720.9798,
     "id": "խումբ-7-հայերեն-page-07-q039",
     "reason": "more-than-four-source-options",
     "extractedText": "Կանգառն արգելվում է, եթե հոծ գծի եւ կանգնած տրանսպորտային միջոցի միջեւ տարածությունը կազմում է`",
@@ -2620,8 +2525,8 @@
         "src": "/question-images/խումբ-7-հայերեն-page-08-image-04.png"
       }
     ],
-    "startY": 277.3,
-    "endY": 484.1,
+    "startY": 277.2938,
+    "endY": 484.0738,
     "id": "խումբ-7-հայերեն-page-08-q044",
     "reason": "more-than-four-source-options",
     "extractedText": "Ո՞ր տրանսպորտային միջոցների վարորդներն են սխալ կանգառ կատարել ուղեւորներ իջեցնելու համար։",
@@ -2636,11 +2541,11 @@
       },
       {
         "sourceIndex": 3,
-        "text": "Ավտոբուսի վարորդը։ և ավտոբուսի վարորդները"
+        "text": "Ավտոբուսի վարորդը։"
       },
       {
         "sourceIndex": 4,
-        "text": "Մոտոցիկլի"
+        "text": "Մոտոցիկլի և ավտոբուսի վարորդները"
       },
       {
         "sourceIndex": 5,
@@ -2670,8 +2575,8 @@
         "src": "/question-images/խումբ-8-հայերեն-page-01-image-02.png"
       }
     ],
-    "startY": 61.2,
-    "endY": 174.7,
+    "startY": 61.2438,
+    "endY": 174.6638,
     "id": "խումբ-8-հայերեն-page-01-q001",
     "reason": "more-than-four-source-options",
     "extractedText": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում թեթեւ մարդատար ավտոմոբիլների երթեւեկությունը ճանապարհներին` բնակավայրերից դուրս։",
@@ -2707,8 +2612,8 @@
     "sourceId": "խումբ-8-հայերեն",
     "side": "right",
     "images": [],
-    "startY": 540.1,
-    "endY": 643.6,
+    "startY": 540.1138,
+    "endY": 643.5838,
     "id": "խումբ-8-հայերեն-page-02-q012",
     "reason": "more-than-four-source-options",
     "extractedText": "Կոշտ կցիչով քարշակման ժամանակ տրանսպորտային միջոցների միջեւ հեռավորությունը չպետք է գերազանցի՝",
@@ -2751,8 +2656,8 @@
         "src": "/question-images/խումբ-8-հայերեն-page-03-image-01.png"
       }
     ],
-    "startY": 298.3,
-    "endY": 411.6,
+    "startY": 298.2938,
+    "endY": 411.5738,
     "id": "խումբ-8-հայերեն-page-03-q014",
     "reason": "more-than-four-source-options",
     "extractedText": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում երթեւեկությունը՝ մեխանիկական տրանսպորտային միջոցներով քարշակում կատարելիս։",
@@ -2795,8 +2700,8 @@
         "src": "/question-images/խումբ-8-հայերեն-page-03-image-01.png"
       }
     ],
-    "startY": 525.2,
-    "endY": 658.5,
+    "startY": 525.2338,
+    "endY": 658.4638,
     "id": "խումբ-8-հայերեն-page-03-q018",
     "reason": "more-than-four-source-options",
     "extractedText": "Թույլատրվու՞մ է արդյոք ճկուն կամ կոշտ կցիչով քարշակման դեպքում մարդկանց փոխադրումը քարշակվող մեխանիկական տրանսպորտային միջոցում։",
@@ -2832,8 +2737,8 @@
     "sourceId": "խումբ-8-հայերեն",
     "side": "right",
     "images": [],
-    "startY": 66.3,
-    "endY": 169.7,
+    "startY": 66.2838,
+    "endY": 169.7438,
     "id": "խումբ-8-հայերեն-page-04-q022",
     "reason": "more-than-four-source-options",
     "extractedText": "Ինչպիսի՞ առավելագույն արագությամբ է թույլատրվում տրանսպորտային միջոցների քարշակումը ճկուն կցիչով։",
@@ -2869,8 +2774,8 @@
     "sourceId": "խումբ-8-հայերեն",
     "side": "right",
     "images": [],
-    "startY": 298.3,
-    "endY": 411.6,
+    "startY": 298.2938,
+    "endY": 411.5738,
     "id": "խումբ-8-հայերեն-page-04-q023",
     "reason": "more-than-four-source-options",
     "extractedText": "Բնակավայրերից դուրս մեխանիկական տրանսպորտային միջոցներ քարշակելիս երթեւեկության արագությունը չպետք է գերազանցի՝",
@@ -2906,19 +2811,19 @@
     "sourceId": "խումբ-8-հայերեն",
     "side": "right",
     "images": [],
-    "startY": 540.1,
-    "endY": 643.6,
+    "startY": 540.1138,
+    "endY": 643.5838,
     "id": "խումբ-8-հայերեն-page-04-q024",
     "reason": "more-than-four-source-options",
-    "extractedText": "Քարշարկման ժամանակ տրանսպորտային միջոցների միջեւ ի՞նչ հեռավորություն պետք է ապահովի ճկուն կցիչը։ 3 մ։",
+    "extractedText": "Քարշարկման ժամանակ տրանսպորտային միջոցների միջեւ ի՞նչ հեռավորություն պետք է ապահովի ճկուն կցիչը։",
     "extractedOptions": [
       {
         "sourceIndex": 1,
-        "text": "1 - 4 մ։"
+        "text": "1 - 3 մ։"
       },
       {
         "sourceIndex": 2,
-        "text": "2 - 6 մ։"
+        "text": "2 - 4 մ։"
       },
       {
         "sourceIndex": 3,
@@ -2926,11 +2831,11 @@
       },
       {
         "sourceIndex": 4,
-        "text": "4 - 8 մ։"
+        "text": "4 - 6 մ։"
       },
       {
         "sourceIndex": 5,
-        "text": "4 -"
+        "text": "4 - 8 մ։"
       }
     ],
     "sourceAnswer": 4,
@@ -2943,8 +2848,8 @@
     "sourceId": "խումբ-8-հայերեն",
     "side": "left",
     "images": [],
-    "startY": 61.2,
-    "endY": 174.7,
+    "startY": 61.2438,
+    "endY": 174.6638,
     "id": "խումբ-8-հայերեն-page-05-q025",
     "reason": "more-than-four-source-options",
     "extractedText": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում կցորդ քարշակող թեթեւ մարդատար ավտոմոբիլների երթեւեկությունն ավտոմայրուղիներով երթեւեկելիս։",
@@ -2980,8 +2885,8 @@
     "sourceId": "խումբ-8-հայերեն",
     "side": "left",
     "images": [],
-    "startY": 540.1,
-    "endY": 643.6,
+    "startY": 540.1138,
+    "endY": 643.5838,
     "id": "խումբ-8-հայերեն-page-05-q027",
     "reason": "more-than-four-source-options",
     "extractedText": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում երթեւեկությունը ճկուն կցիչով քարշակելիս։",
@@ -3030,8 +2935,8 @@
         "src": "/question-images/խումբ-8-հայերեն-page-10-image-02.png"
       }
     ],
-    "startY": 514.2,
-    "endY": 717.4,
+    "startY": 514.1938,
+    "endY": 717.3798,
     "id": "խումբ-8-հայերեն-page-10-q057",
     "reason": "more-than-four-source-options",
     "extractedText": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում ավտոբուսի երթեւեկությունը այս ճանապարհային նշանի ազդեցության ճանապարհահատվածներում։",
@@ -3080,8 +2985,8 @@
         "src": "/question-images/խումբ-8-հայերեն-page-10-image-02.png"
       }
     ],
-    "startY": 303.2,
-    "endY": 406.7,
+    "startY": 303.2138,
+    "endY": 406.6538,
     "id": "խումբ-8-հայերեն-page-10-q059",
     "reason": "more-than-four-source-options",
     "extractedText": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում միջքաղաքային ավտոբուսների երթեւեկությունն ավտոմայրուղիներով։",
@@ -3130,8 +3035,8 @@
         "src": "/question-images/խումբ-8-հայերեն-page-10-image-02.png"
       }
     ],
-    "startY": 540.1,
-    "endY": 643.6,
+    "startY": 540.1138,
+    "endY": 643.5838,
     "id": "խումբ-8-հայերեն-page-10-q060",
     "reason": "more-than-four-source-options",
     "extractedText": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում միջքաղաքային ավտոբուսների երթեւեկությունն ավտոմայրուղիներով։",
@@ -3186,8 +3091,8 @@
         "src": "/question-images/խումբ-8-հայերեն-page-11-image-03.png"
       }
     ],
-    "startY": 40.4,
-    "endY": 248.3,
+    "startY": 40.3638,
+    "endY": 248.3438,
     "id": "խումբ-8-հայերեն-page-11-q064",
     "reason": "more-than-four-source-options",
     "extractedText": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում թեթեւ մարդատար ավտոմոբիլների երթեւեկությունը այս ճանապարհային նշանի ազդեցության ճանապարհահատվածներում։",
@@ -3230,8 +3135,8 @@
         "src": "/question-images/խումբ-8-հայերեն-page-12-image-01.png"
       }
     ],
-    "startY": 45.4,
-    "endY": 190.5,
+    "startY": 45.4038,
+    "endY": 190.5038,
     "id": "խումբ-8-հայերեն-page-12-q067",
     "reason": "more-than-four-source-options",
     "extractedText": "Վարորդին արգելվում է`",
@@ -3263,46 +3168,6 @@
   {
     "file": "Խումբ-8 (հայերեն).pdf",
     "page": 12,
-    "questionIndex": 70,
-    "sourceId": "խումբ-8-հայերեն",
-    "side": "right",
-    "images": [
-      {
-        "x": 316,
-        "y": 40,
-        "side": "right",
-        "src": "/question-images/խումբ-8-հայերեն-page-12-image-01.png"
-      }
-    ],
-    "startY": 159.8,
-    "endY": 207.5,
-    "id": "խումբ-8-հայերեն-page-12-q070",
-    "reason": "empty-question-text",
-    "extractedText": "",
-    "extractedOptions": [
-      {
-        "sourceIndex": 1,
-        "text": "1 և 3"
-      },
-      {
-        "sourceIndex": 2,
-        "text": "1 և 4"
-      },
-      {
-        "sourceIndex": 3,
-        "text": "միայն 2-ը"
-      },
-      {
-        "sourceIndex": 4,
-        "text": "2 և 3"
-      }
-    ],
-    "sourceAnswer": 3,
-    "visualReviewRequired": false
-  },
-  {
-    "file": "Խումբ-8 (հայերեն).pdf",
-    "page": 12,
     "questionIndex": 72,
     "sourceId": "խումբ-8-հայերեն",
     "side": "right",
@@ -3314,15 +3179,15 @@
         "src": "/question-images/խումբ-8-հայերեն-page-12-image-01.png"
       }
     ],
-    "startY": 518.4,
-    "endY": 665.4,
+    "startY": 518.3938,
+    "endY": 665.4238,
     "id": "խումբ-8-հայերեն-page-12-q072",
     "reason": "more-than-four-source-options",
-    "extractedText": "Վարորդը պարտավոր է իջեցնել արագությունը «Երեխաների փոխադրում» ճանաչման նշանով կահավորված",
+    "extractedText": "Վարորդը պարտավոր է իջեցնել արագությունը",
     "extractedOptions": [
       {
         "sourceIndex": 1,
-        "text": "տրանսպորտային միջոցներ երեխաների նստեցման և իջեցման ժամանակ այդ տրանսպորտային միջոցներին մոտենալիս:"
+        "text": "«Երեխաների փոխադրում» ճանաչման նշանով կահավորված տրանսպորտային միջոցներ երեխաների նստեցման և իջեցման ժամանակ այդ տրանսպորտային միջոցներին մոտենալիս:"
       },
       {
         "sourceIndex": 2,
@@ -3342,85 +3207,6 @@
       }
     ],
     "sourceAnswer": 5,
-    "visualReviewRequired": true
-  },
-  {
-    "file": "Խումբ-8 (հայերեն).pdf",
-    "page": 13,
-    "questionIndex": 73,
-    "sourceId": "խումբ-8-հայերեն",
-    "side": "left",
-    "images": [],
-    "startY": 56.3,
-    "endY": 179.6,
-    "id": "խումբ-8-հայերեն-page-13-q073",
-    "reason": "empty-option-text",
-    "extractedText": "Տրանսպորտային միջոցի կողքից` եզրաչափային լույսի արտաքին եզրից 0,5 մ դուրս ցցվելու դեպքում բեռը պետք է արդյո՞ք նշվի օրվա լուսավոր ժամերին «Մեծ եզրաչափերով բեռ» ճանաչման նշանով, իսկ օրվա մութ ժամանակ և անբավարար տեսանելիության պայմաններում, նաև` առջևից սպիտակ, իսկ հետևից` կարմիր գույնի լապտերիկներով կամ լուսանդրադարձիչով: Այո",
-    "extractedOptions": [
-      {
-        "sourceIndex": 1,
-        "text": ""
-      },
-      {
-        "sourceIndex": 2,
-        "text": "Ոչ"
-      }
-    ],
-    "sourceAnswer": 1,
-    "visualReviewRequired": true
-  },
-  {
-    "file": "Խումբ-8 (հայերեն).pdf",
-    "page": 13,
-    "questionIndex": 74,
-    "sourceId": "խումբ-8-հայերեն",
-    "side": "left",
-    "images": [],
-    "startY": 323,
-    "endY": 386.7,
-    "id": "խումբ-8-հայերեն-page-13-q074",
-    "reason": "empty-option-text",
-    "extractedText": "Արգելվում է մինչև 12 տարեկան երեխաներին փոխադրել Կողավոր թափքով բեռնատար ավտոմոբիլի թափքում:",
-    "extractedOptions": [
-      {
-        "sourceIndex": 1,
-        "text": ""
-      },
-      {
-        "sourceIndex": 2,
-        "text": "Փուրգոն թափքով բեռնատար ավտոմոբիլի թափքում"
-      }
-    ],
-    "sourceAnswer": 1,
-    "visualReviewRequired": true
-  },
-  {
-    "file": "Խումբ-8 (հայերեն).pdf",
-    "page": 13,
-    "questionIndex": 76,
-    "sourceId": "խումբ-8-հայերեն",
-    "side": "right",
-    "images": [],
-    "startY": 66.3,
-    "endY": 169.7,
-    "id": "խումբ-8-հայերեն-page-13-q076",
-    "reason": "empty-option-text",
-    "extractedText": "Բեռնատարով, որի վարորդը ունի B և C կարգերի տրանսպորտային միջոցներ վարելու իրավունքի վկայական պահպանելով բեռնատարներով մարդ փոխադրելու կանոնները թույլատրվում է փոխադրել մինչև 8 ուղևոր",
-    "extractedOptions": [
-      {
-        "sourceIndex": 1,
-        "text": ""
-      },
-      {
-        "sourceIndex": 2,
-        "text": "9 ուղևոր"
-      },
-      {
-        "sourceIndex": 3,
-        "text": "4 ուղևոր"
-      }
-    ],
-    "sourceAnswer": 1,
     "visualReviewRequired": false
   },
   {
@@ -3430,8 +3216,8 @@
     "sourceId": "խումբ-9-հայերեն",
     "side": "right",
     "images": [],
-    "startY": 530.2,
-    "endY": 653.5,
+    "startY": 530.1538,
+    "endY": 653.5438,
     "id": "խումբ-9-հայերեն-page-07-q042",
     "reason": "more-than-four-source-options",
     "extractedText": "Հետին հակամառախուղային լապտերիկները կարող են օգտագործվել՝",
