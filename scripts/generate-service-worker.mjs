@@ -8,12 +8,13 @@ const staticShellFiles = [
   "/",
   "/manifest.webmanifest",
   "/favicon.ico",
-  "/icons/icon.svg",
-  "/icons/icon-maskable.svg",
-  "/icons/icon-192.png",
-  "/icons/icon-512.png",
-  "/icons/icon-maskable-512.png",
-  "/icons/apple-touch-icon.png",
+  "/favicon/favicon-96x96.png",
+  "/favicon/apple-touch-icon.png",
+  "/favicon/icon-192.png",
+  "/favicon/icon-512.png",
+  "/favicon/icon-maskable-192.png",
+  "/favicon/icon-maskable-512.png",
+  "/favicon/logo-96.png",
 ];
 
 async function listFiles(directory) {

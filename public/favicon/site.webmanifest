@@ -1,0 +1,21 @@
+{
+  "name": "Ամենա Վարորդ",
+  "short_name": "Վարորդ",
+  "icons": [
+    {
+      "src": "/favicon/web-app-manifest-192x192.png?v=20261004",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon/web-app-manifest-512x512.png?v=20261004",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#2b2f38",
+  "background_color": "#2b2f38",
+  "display": "standalone"
+}

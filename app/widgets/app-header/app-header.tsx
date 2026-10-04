@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Link, NavLink } from "react-router";
 
 export function AppHeader() {
-  const [dark, setDark] = useState(false);
+  const [dark, setDark] = useState<boolean | null>(null);
   const [menuOpen, setMenuOpen] = useState(false);
 
   useEffect(() => {
@@ -15,6 +15,8 @@ export function AppHeader() {
   }, []);
 
   useEffect(() => {
+    // Wait until the saved theme is read, or it would be overwritten.
+    if (dark === null) return;
     document.documentElement.classList.toggle("dark", dark);
     window.localStorage.setItem("theme", dark ? "dark" : "light");
   }, [dark]);
@@ -22,6 +24,13 @@ export function AppHeader() {
   return (
     <header className="header">
       <Link className="brand" to="/">
+        <img
+          className="brand-logo"
+          src="/favicon/logo-96.png"
+          alt=""
+          width={36}
+          height={36}
+        />
         Տեսական Քննություն
       </Link>
       <nav

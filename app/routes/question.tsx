@@ -5,6 +5,7 @@ import { getQuestion, questions } from "~/entities/driving-question/data";
 import {
   QuestionVisual,
   SourceLine,
+  useFitQuestion,
 } from "~/widgets/question-card/question-card";
 export default function QuestionPage({ params }: Route.ComponentProps) {
   const q = getQuestion(params.questionId);
@@ -12,6 +13,7 @@ export default function QuestionPage({ params }: Route.ComponentProps) {
   const navigate = useNavigate();
   const [selected, setSelected] = useState<string | null>(null);
   const [submitted, setSubmitted] = useState(false);
+  const pageRef = useFitQuestion<HTMLElement>(q?.id);
   useEffect(() => {
     setSelected(null);
     setSubmitted(false);
@@ -50,7 +52,7 @@ export default function QuestionPage({ params }: Route.ComponentProps) {
   }
 
   return (
-    <article className="study-card question-page">
+    <article className="study-card question-page" ref={pageRef}>
       <Link to={backUrl}>← {category ? "Կատեգորիա" : "Բոլոր հարցերը"}</Link>
       <p className="eyebrow">{q.categories.join(" · ")}</p>
       <h1>{q.question}</h1>

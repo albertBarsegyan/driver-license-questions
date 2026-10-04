@@ -6,7 +6,10 @@ import {
   saveTestResult,
   type TestResult,
 } from "~/lib/test-results";
-import { QuestionVisual } from "~/widgets/question-card/question-card";
+import {
+  QuestionVisual,
+  useFitQuestion,
+} from "~/widgets/question-card/question-card";
 
 const QUESTIONS_PER_TEST = 20;
 const MEDICAL_GROUP = 10;
@@ -258,6 +261,7 @@ function TestRunner({
   const [wrongCount, setWrongCount] = useState(0);
   const [savedResult, setSavedResult] = useState<TestResult | null>(null);
   const item = test.items[index];
+  const pageRef = useFitQuestion<HTMLElement>(index);
   const correct = selected === item.quiz.correctOptionId;
   const backUrl = listUrl(source, category);
   function answer(optionId: string) {
@@ -322,7 +326,7 @@ function TestRunner({
       </section>
     );
   return (
-    <section className="quiz">
+    <section className="quiz question-page" ref={pageRef}>
       <Link className="back-link" to={backUrl}>
         ← Բոլոր թեստերը
       </Link>

@@ -13,10 +13,16 @@ import "./pwa.client";
 
 export const links: Route.LinksFunction = () => [
   { rel: "manifest", href: "/manifest.webmanifest" },
-  { rel: "icon", href: "/icons/icon.svg", type: "image/svg+xml" },
+  { rel: "icon", href: "/favicon.ico", sizes: "48x48" },
+  {
+    rel: "icon",
+    href: "/favicon/favicon-96x96.png",
+    type: "image/png",
+    sizes: "96x96",
+  },
   {
     rel: "apple-touch-icon",
-    href: "/icons/apple-touch-icon.png",
+    href: "/favicon/apple-touch-icon.png",
     sizes: "180x180",
   },
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
@@ -37,7 +43,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="theme-color" content="#173c36" />
+        <meta name="theme-color" content="#d6245f" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta
           name="apple-mobile-web-app-status-bar-style"

@@ -197,7 +197,6 @@ function parseBlock(lines, context) {
   if (options.length < 2) reasons.push("fewer-than-two-options");
   if (!options.some((option) => option.sourceIndex === sourceAnswer))
     reasons.push("answer-index-not-present-in-options");
-  if (options.length > 4) reasons.push("more-than-four-source-options");
   if (options.some((option) => !option.text)) reasons.push("empty-option-text");
   const imageDependent = visualLanguage.test(question);
   // pdftohtml reports image coordinates at 1.5x the PDF text coordinate system.

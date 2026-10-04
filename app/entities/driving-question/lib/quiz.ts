@@ -9,12 +9,17 @@ export function shuffle<T>(items: readonly T[]): T[] {
   return copy;
 }
 
-/** Only complete, unambiguous four-source-option records enter exam mode. */
+/** Only complete records with 2–5 source options and a mapped answer enter exam mode. */
 export function buildQuizQuestion(
   source: SourceQuestion,
   randomizeOptions = true,
 ): QuizQuestion | null {
-  if (source.needsReview || source.originalOptions.length !== 4) return null;
+  if (
+    source.needsReview ||
+    source.originalOptions.length < 2 ||
+    source.originalOptions.length > 5
+  )
+    return null;
   const correct = source.originalOptions.find(
     (option) => option.sourceIndex === source.sourceCorrectOptionIndex,
   );

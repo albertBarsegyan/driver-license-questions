@@ -45,9 +45,7 @@
       "type": "image",
       "src": "/question-images/խումբ-1-հայերեն-page-01-image-01.png",
       "page": 1
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-1-հայերեն-page-01-q002",
@@ -289,9 +287,7 @@
       "page": 2,
       "questionIndex": 8
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-1-հայերեն-page-02-q009",
@@ -775,9 +771,7 @@
       "page": 4,
       "questionIndex": 21
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-1-հայերեն-page-04-q022",
@@ -11438,9 +11432,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-01-image-03.png",
       "page": 1
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-01-q003",
@@ -11560,9 +11552,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-01-image-04.png",
       "page": 1
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-01-q006",
@@ -11610,9 +11600,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-01-image-06.png",
       "page": 1
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-02-q007",
@@ -11660,9 +11648,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-02-image-01.png",
       "page": 2
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-02-q008",
@@ -11788,9 +11774,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-02-image-02.png",
       "page": 2
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-02-q011",
@@ -11838,9 +11822,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-02-image-04.png",
       "page": 2
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-02-q012",
@@ -11918,9 +11900,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-03-image-01.png",
       "page": 3
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-03-q014",
@@ -11968,9 +11948,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-03-image-03.png",
       "page": 3
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-03-q015",
@@ -12019,8 +11997,6 @@
       "src": "/question-images/խումբ-4-հայերեն-page-03-image-05.png",
       "page": 3
     },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"],
     "duplicateGroupId": "duplicate-005"
   },
   {
@@ -12177,9 +12153,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-04-image-01.png",
       "page": 4
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-04-q020",
@@ -12263,9 +12237,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-04-image-05.png",
       "page": 4
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-04-q022",
@@ -12313,9 +12285,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-04-image-02.png",
       "page": 4
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-04-q023",
@@ -12399,9 +12369,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-04-image-06.png",
       "page": 4
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-05-q025",
@@ -12563,9 +12531,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-05-image-02.png",
       "page": 5
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-05-q029",
@@ -12613,9 +12579,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-05-image-04.png",
       "page": 5
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-05-q030",
@@ -12705,9 +12669,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-06-image-01.png",
       "page": 6
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-06-q032",
@@ -12791,9 +12753,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-06-image-05.png",
       "page": 6
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-06-q034",
@@ -12871,9 +12831,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-06-image-04.png",
       "page": 6
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-06-q036",
@@ -12993,9 +12951,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-07-image-03.png",
       "page": 7
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-07-q039",
@@ -13043,9 +12999,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-07-image-05.png",
       "page": 7
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-07-q040",
@@ -13093,9 +13047,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-07-image-02.png",
       "page": 7
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-07-q041",
@@ -13221,9 +13173,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-08-image-01.png",
       "page": 8
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-08-q044",
@@ -13271,9 +13221,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-08-image-03.png",
       "page": 8
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-08-q045",
@@ -13394,8 +13342,6 @@
       "src": "/question-images/խումբ-4-հայերեն-page-08-image-04.png",
       "page": 8
     },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"],
     "duplicateGroupId": "duplicate-005"
   },
   {
@@ -13588,9 +13534,7 @@
       "type": "image",
       "src": "/question-images/խումբ-4-հայերեն-page-09-image-02.png",
       "page": 9
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-4-հայերեն-page-09-q053",
@@ -22794,9 +22738,7 @@
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-01-image-04.png",
       "page": 1
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-6-հայերեն-page-01-q004",
@@ -24007,9 +23949,7 @@
       "type": "image",
       "src": "/question-images/խումբ-6-հայերեն-page-07-image-03.png",
       "page": 7
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-6-հայերեն-page-07-q039",
@@ -25996,9 +25936,7 @@
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-01-image-01.png",
       "page": 1
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-7-հայերեն-page-01-q002",
@@ -26174,9 +26112,7 @@
       "page": 1,
       "questionIndex": 6
     },
-    "categories": ["Կայանում"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Կայանում"]
   },
   {
     "id": "խումբ-7-հայերեն-page-02-q007",
@@ -26614,9 +26550,7 @@
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-03-image-06.png",
       "page": 3
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-7-հայերեն-page-04-q019",
@@ -27271,9 +27205,7 @@
       "type": "page",
       "src": "",
       "page": 6
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-7-հայերեն-page-07-q037",
@@ -27393,9 +27325,7 @@
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-07-image-04.png",
       "page": 7
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-7-հայերեն-page-07-q040",
@@ -27589,9 +27519,7 @@
       "type": "image",
       "src": "/question-images/խումբ-7-հայերեն-page-08-image-02.png",
       "page": 8
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-7-հայերեն-page-08-q045",
@@ -30827,9 +30755,7 @@
       "type": "page",
       "src": "",
       "page": 1
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-8-հայերեն-page-01-q002",
@@ -31213,9 +31139,7 @@
       "page": 2,
       "questionIndex": 12
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-03-q013",
@@ -31300,9 +31224,7 @@
       "page": 3,
       "questionIndex": 14
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-03-q015",
@@ -31454,9 +31376,7 @@
       "page": 3,
       "questionIndex": 18
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-04-q019",
@@ -31592,9 +31512,7 @@
       "page": 4,
       "questionIndex": 22
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-04-q023",
@@ -31637,9 +31555,7 @@
       "page": 4,
       "questionIndex": 23
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-04-q024",
@@ -31682,9 +31598,7 @@
       "page": 4,
       "questionIndex": 24
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-05-q025",
@@ -31732,9 +31646,7 @@
       "type": "page",
       "src": "",
       "page": 5
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-8-հայերեն-page-05-q026",
@@ -31814,9 +31726,7 @@
       "page": 5,
       "questionIndex": 27
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-05-q028",
@@ -32800,9 +32710,7 @@
       "type": "image",
       "src": "/question-images/խումբ-8-հայերեն-page-10-image-02.png",
       "page": 10
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-8-հայերեն-page-10-q058",
@@ -32876,9 +32784,7 @@
       "page": 10,
       "questionIndex": 59
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-10-q060",
@@ -32921,9 +32827,7 @@
       "page": 10,
       "questionIndex": 60
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-11-q061",
@@ -33074,9 +32978,7 @@
       "type": "image",
       "src": "/question-images/խումբ-8-հայերեն-page-11-image-01.png",
       "page": 11
-    },
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    }
   },
   {
     "id": "խումբ-8-հայերեն-page-11-q065",
@@ -33174,9 +33076,7 @@
       "page": 12,
       "questionIndex": 67
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-12-q068",
@@ -33349,9 +33249,7 @@
       "page": 12,
       "questionIndex": 72
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-8-հայերեն-page-13-q073",
@@ -34990,9 +34888,7 @@
       "page": 7,
       "questionIndex": 42
     },
-    "categories": ["Այլ"],
-    "needsReview": true,
-    "reviewReasons": ["more-than-four-source-options"]
+    "categories": ["Այլ"]
   },
   {
     "id": "խումբ-9-հայերեն-page-08-q043",
