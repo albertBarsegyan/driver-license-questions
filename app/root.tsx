@@ -37,6 +37,12 @@ export const links: Route.LinksFunction = () => [
   },
 ];
 
+// Link-preview crawlers need an absolute image URL, e.g. VITE_PUBLIC_URL=https://example.com
+const PUBLIC_URL = (import.meta.env.VITE_PUBLIC_URL ?? "").replace(/\/$/, "");
+const SHARE_IMAGE = `${PUBLIC_URL}/assets/driving-theory-card.png`;
+const SHARE_TITLE = "Տեսական Քննություն";
+const SHARE_DESCRIPTION = "Հայկական վարորդական տեսության աղբյուրային հարցաշար";
+
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="hy">
@@ -49,6 +55,15 @@ export function Layout({ children }: { children: React.ReactNode }) {
           name="apple-mobile-web-app-status-bar-style"
           content="black-translucent"
         />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={SHARE_TITLE} />
+        <meta property="og:description" content={SHARE_DESCRIPTION} />
+        <meta property="og:image" content={SHARE_IMAGE} />
+        <meta property="og:image:width" content="1536" />
+        <meta property="og:image:height" content="1024" />
+        <meta property="og:image:alt" content={SHARE_TITLE} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content={SHARE_IMAGE} />
         <Meta />
         <Links />
       </head>
