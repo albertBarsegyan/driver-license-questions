@@ -41,7 +41,7 @@ export default function Home() {
           PDF հարցաշարերից։
         </p>
         <a
-          href="https://police.mia.gov.am/articles/%D5%BE%D5%A1%D6%80%D5%B8%D6%80%D5%A4%D5%A1%D5%AF%D5%A1%D5%B6-%D6%84%D5%B6%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6-%D5%B0%D5%A1%D6%80%D6%81%D5%A1%D5%B7%D5%A1%D6%80%D5%A5%D6%80/armenian"
+          href="https://roadpolice.am/hy/viv-exam"
           target="_blank"
           rel="noreferrer"
         >
