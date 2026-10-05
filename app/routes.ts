@@ -15,5 +15,6 @@ export default [
     route("sources", "routes/sources.tsx"),
     route("sources/:sourceId", "routes/source.tsx"),
     route("quiz", "routes/quiz.tsx"),
+    route("quiz/mistakes", "routes/mistakes.tsx"),
   ]),
 ] satisfies RouteConfig;

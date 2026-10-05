@@ -1,9 +1,17 @@
+export type TestMistake = {
+  questionId: string;
+  selectedOptionId: string;
+};
+
 export type TestResult = {
   testId: string;
+  testNumber?: number;
   correct: number;
   wrong: number;
   passed: boolean;
   completedAt: string;
+  // Missing on results saved before mistakes were tracked.
+  mistakes?: TestMistake[];
 };
 
 const DATABASE_NAME = "driver-theory";

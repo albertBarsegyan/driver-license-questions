@@ -86,6 +86,19 @@ body {
   color: var(--muted-foreground);
   font-size: 0.85rem;
 }
+.footer .footer-credit {
+  flex-basis: 100%;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+.footer-credit a {
+  color: var(--foreground);
+  font-weight: 700;
+  text-underline-offset: 3px;
+}
+.footer-credit a:hover {
+  color: var(--primary);
+}
 nav {
   display: flex;
   gap: 20px;
@@ -470,6 +483,94 @@ fieldset {
 }
 .result-counts span {
   color: var(--muted-foreground);
+}
+.actions.compact {
+  margin: 20px 0 0;
+}
+.mistake-test {
+  margin-top: 40px;
+}
+.mistake-test-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 10px;
+}
+.mistake-test-header h2 {
+  margin: 0;
+}
+.mistake-test-header small {
+  color: var(--muted-foreground);
+}
+.mistake {
+  margin-top: 20px;
+  display: grid;
+  gap: 10px;
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--destructive);
+  border-radius: 5px;
+  background: var(--card);
+}
+.mistake h3 {
+  margin: 0 0 6px;
+  font-size: 1.1rem;
+  line-height: 1.45;
+}
+.mistake .visual,
+.dark .mistake .visual {
+  width: auto;
+  margin: 0 0 6px;
+  padding: 0;
+  background: transparent;
+}
+.mistake .visual img,
+.dark .mistake .visual img {
+  margin: 0;
+  width: 100%;
+  max-width: 760px;
+  max-height: 420px;
+  border-radius: 4px;
+}
+.mistake .visual figcaption {
+  margin-top: 6px;
+}
+.mistake .answer {
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  padding: 12px 16px;
+  cursor: default;
+}
+.mistake .answer span {
+  flex: 1 1 16rem;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.mistake .answer b {
+  margin-left: auto;
+  white-space: nowrap;
+  font-size: 0.85rem;
+}
+.mistake .answer.correct b {
+  color: var(--correct);
+}
+.mistake .answer.incorrect b {
+  color: var(--destructive);
+}
+@media (max-width: 620px) {
+  .mistake {
+    padding: 14px;
+  }
+  .mistake .answer {
+    padding: 10px 12px;
+  }
+  .mistake .answer b {
+    margin-left: 0;
+  }
 }
 .result .actions {
   justify-content: center;

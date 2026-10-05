@@ -4,6 +4,7 @@ import { questions } from "~/entities/driving-question/data";
 import {
   getTestResults,
   saveTestResult,
+  type TestMistake,
   type TestResult,
 } from "~/lib/test-results";
 import {
@@ -213,6 +214,11 @@ function TestList({
           : `Բոլոր ${questionCount} հարցերը բաժանված են մինչև 20 հարց ունեցող թեստերի։`}{" "}
         2-ից ավելի սխալի դեպքում թեստը չի ընդունվում։
       </p>
+      <div className="actions compact">
+        <Link className="button secondary" to="/quiz/mistakes">
+          Սխալ պատասխաններ
+        </Link>
+      </div>
       <div className="test-grid">
         {tests.map((test) => {
           const result = results[test.id];
@@ -259,6 +265,7 @@ function TestRunner({
   const [submitted, setSubmitted] = useState(false);
   const [correctCount, setCorrectCount] = useState(0);
   const [wrongCount, setWrongCount] = useState(0);
+  const [mistakes, setMistakes] = useState<TestMistake[]>([]);
   const [savedResult, setSavedResult] = useState<TestResult | null>(null);
   const item = test.items[index];
   const pageRef = useFitQuestion<HTMLElement>(index);
@@ -271,14 +278,21 @@ function TestRunner({
     setSubmitted(true);
     if (isCorrect) setCorrectCount((count) => count + 1);
     else setWrongCount((count) => count + 1);
+    const mistake = {
+      questionId: item.quiz.questionId,
+      selectedOptionId: optionId,
+    };
+    if (!isCorrect) setMistakes((current) => [...current, mistake]);
     window.setTimeout(() => {
       if (index + 1 === test.items.length) {
         const result = {
           testId: test.id,
+          testNumber: test.number,
           correct: correctCount + Number(isCorrect),
           wrong: wrongCount + Number(!isCorrect),
           passed: wrongCount + Number(!isCorrect) <= 2,
           completedAt: new Date().toISOString(),
+          mistakes: isCorrect ? mistakes : [...mistakes, mistake],
         };
         setSavedResult(result);
         onComplete(result);
@@ -322,6 +336,11 @@ function TestRunner({
           >
             Կրկին փորձել
           </Link>
+          {savedResult.wrong > 0 && (
+            <Link className="button secondary" to="/quiz/mistakes">
+              Սխալ պատասխաններ
+            </Link>
+          )}
         </div>
       </section>
     );
