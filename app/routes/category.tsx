@@ -1,6 +1,11 @@
 import { Link } from "react-router";
 import type { Route } from "./+types/category";
 import { questions } from "~/entities/driving-question/data";
+import { pageTitle } from "~/lib/utils";
+
+export function meta({ params }: Route.MetaArgs) {
+  return [{ title: pageTitle(decodeURIComponent(params.category)) }];
+}
 
 export default function Category({ params }: Route.ComponentProps) {
   const category = decodeURIComponent(params.category);

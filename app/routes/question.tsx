@@ -7,6 +7,17 @@ import {
   SourceLine,
   useFitQuestion,
 } from "~/widgets/question-card/question-card";
+import { pageTitle } from "~/lib/utils";
+export function meta({ params }: Route.MetaArgs) {
+  return [
+    {
+      title: pageTitle(
+        getQuestion(params.questionId)?.question ?? "Հարցը չի գտնվել",
+      ),
+    },
+  ];
+}
+
 export default function QuestionPage({ params }: Route.ComponentProps) {
   const q = getQuestion(params.questionId);
   const [search] = useSearchParams();

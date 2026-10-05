@@ -1,5 +1,10 @@
 import { Link } from "react-router";
 import { categories, questions } from "~/entities/driving-question/data";
+import { pageTitle } from "~/lib/utils";
+export function meta() {
+  return [{ title: pageTitle("Կատեգորիաներ") }];
+}
+
 export default function Categories() {
   return (
     <section>

@@ -1,10 +1,11 @@
 import type { Route } from "./+types/home";
+import { pageTitle } from "~/lib/utils";
 import { Link } from "react-router";
 import { questions, sources } from "~/entities/driving-question/data";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Տեսական Քննություն" },
+    { title: pageTitle() },
     {
       name: "description",
       content: "Հայկական վարորդական տեսության աղբյուրային հարցաշար",

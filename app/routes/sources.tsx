@@ -1,5 +1,10 @@
 import { Link } from "react-router";
 import { sources, questions } from "~/entities/driving-question/data";
+import { pageTitle } from "~/lib/utils";
+export function meta() {
+  return [{ title: pageTitle("Հարցաշարեր") }];
+}
+
 export default function Sources() {
   return (
     <section>

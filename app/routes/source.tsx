@@ -1,6 +1,11 @@
 import { Link } from "react-router";
 import type { Route } from "./+types/source";
 import { questions } from "~/entities/driving-question/data";
+import { pageTitle } from "~/lib/utils";
+export function meta({ params }: Route.MetaArgs) {
+  return [{ title: pageTitle(decodeURIComponent(params.sourceId)) }];
+}
+
 export default function Source({ params }: Route.ComponentProps) {
   const source = decodeURIComponent(params.sourceId);
   const list = questions.filter((q) => q.source.file === source);

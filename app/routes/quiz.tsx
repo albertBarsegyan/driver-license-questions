@@ -11,6 +11,7 @@ import {
   QuestionVisual,
   useFitQuestion,
 } from "~/widgets/question-card/question-card";
+import { pageTitle } from "~/lib/utils";
 
 const QUESTIONS_PER_TEST = 20;
 const MEDICAL_GROUP = 10;
@@ -107,6 +108,10 @@ function listUrl(source: string | null, category: string | null) {
   if (source) params.set("source", source);
   if (category) params.set("category", category);
   return `/quiz${params.size ? `?${params}` : ""}`;
+}
+
+export function meta() {
+  return [{ title: pageTitle("Թեստեր") }];
 }
 
 export default function Quiz() {

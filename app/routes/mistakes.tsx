@@ -3,6 +3,7 @@ import { Link } from "react-router";
 import { questions } from "~/entities/driving-question/data";
 import { getTestResults, type TestResult } from "~/lib/test-results";
 import { QuestionVisual } from "~/widgets/question-card/question-card";
+import { pageTitle } from "~/lib/utils";
 
 const questionsById = new Map(
   questions.map((question) => [question.id, question]),
@@ -30,6 +31,10 @@ function parseTestId(result: TestResult) {
       .join(" · "),
     url: `/quiz?${quizParams}`,
   };
+}
+
+export function meta() {
+  return [{ title: pageTitle("Սխալ պատասխաններ") }];
 }
 
 export default function Mistakes() {
